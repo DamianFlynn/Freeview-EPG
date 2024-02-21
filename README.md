@@ -1,6 +1,6 @@
 
 ![logo](https://user-images.githubusercontent.com/9065463/232618260-d9017259-1786-4d85-807f-63752143d403.png)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/actions.yml?color=%232ca9bc&label=EPG%20Generation&style=flat-square) ![GitHub issues](https://img.shields.io/github/issues-raw/dp247/Freeview-EPG?color=%232ca9bc&style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/damianflynn/Freeview-EPG/actions.yml?color=%232ca9bc&label=EPG%20Generation&style=flat-square) ![GitHub issues](https://img.shields.io/github/issues-raw/damianflynn/Freeview-EPG?color=%232ca9bc&style=flat-square)
 
 <a href='https://ko-fi.com/K3K4EYJL5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -10,9 +10,10 @@ Freeview-EPG is a project designed to provide XMLTV data for UK free-to-air TV c
 
 ## About
 This project exists because of a gap in the market - up until recently, it was very hard to get hold of a free, reliably updated and region-supported XMLTV file. You could either get a TV tuner and grab the data, or pay for it from a service. I didn't like either of those options - looking at what's on TV should be easy and free, so now it is.
+
 ### Features
-- 48 hours of data, built every 8 hours. If your TV/IPTV client supports auto-refresh, this is very much a set-and-forget solution.
-- Supports regional channels, as well as just London-based ones.
+- 7 days of data, built every 8 hours. If your TV/IPTV client supports auto-refresh, this is very much a set-and-forget solution.
+- Supports regional channels, as well as just London-based ones; defauted to Ireland, but can be changed
 - Includes data for both TV and radio stations.
 - Data is reliably sourced from UK TV providers, rather than third parties. 
 - Builds to an XMLTV file, complete with channel logos and programme images.
@@ -20,10 +21,13 @@ This project exists because of a gap in the market - up until recently, it was v
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
 ```
-https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
+https://raw.githubusercontent.com/damianflynn/Freeview-EPG/master/epg.xml
 ```
 
 ## Contributing
+
+Forked from https://github.com/dp247/Freeview-EPG/ and updated to support Ireland with 7 day EPG
+
 ### Guidelines
 - Please check [the FAQ](https://github.com/dp247/Freeview-EPG/wiki/FAQ) to make sure your question hasn't already been answered.
 - Please report issues [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=bug&template=issue-report.md&title=%5BIssue%5D), including as much detail as possible about the problem.

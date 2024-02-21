@@ -60,13 +60,19 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         now = int(datetime.timestamp(datetime.now() - timedelta(hours=1)))
         day_1 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(1)))
         day_2 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)))
-        return [now, day_1, day_2]
+        day_3 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(3)))
+        day_4 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(4)))
+        day_5 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(5)))
+        day_6 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(6)))
+        day_7 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(7)))
+        return [now, day_1, day_2, day_3, day_4, day_5, day_6, day_7]
 
     elif src == "bt":
         now = datetime.now() - timedelta(hours=1)
         day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
         day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
-        return [now, day_1, day_2]
+        day_3 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(3))
+        return [now, day_1, day_2, day_3]
 
     elif src == "freeview":
         midnight = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp()
@@ -74,13 +80,15 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         now = math.trunc(datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp())
         day_1 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(1)).timestamp())
         day_2 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(2)).timestamp())
-        return [now, day_1, day_2]
+        day_3 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(3)).timestamp())
+        return [now, day_1, day_2, day_3]
 
     else:
         now = (datetime.combine(datetime.now(), time(0, 0)))
         day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
         day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
-        return [now, day_1, day_2]
+        day_3 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(3))
+        return [now, day_1, day_2, day_3]
 
 
 def get_channels_config() -> list:
@@ -106,7 +114,7 @@ Make the channels and programmes into something readable by XMLTV
 
     data = etree.Element("tv")
     data.set("generator-info-name", "freeview-epg")
-    data.set("generator-info-url", "https://github.com/dp247/Freeview-EPG")
+    data.set("generator-info-url", "https://github.com/damianflynn/Freeview-EPG")
     for ch in channels:
         channel = etree.SubElement(data, "channel")
         channel.set("id", ch.get("xmltv_id"))
@@ -145,6 +153,12 @@ Make the channels and programmes into something readable by XMLTV
 
 # Load the channels data
 channels_data = get_channels_config()
+
+# Get the service list from the SKY API
+
+# https://awk.epgsky.com/hawk/linear/services/4104/50 # Sky Ireland Services
+# https://epgservices.sky.com/5.2.2/api/2.0/channel/json/4101/1617225600/86400/4
+# https://epgservices.sky.com/5.2.2/api/2.0/channel/json/1252/1617225600/86400/0
 
 programme_data = []
 freeview_cache = {}
