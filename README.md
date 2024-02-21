@@ -13,15 +13,15 @@ This project exists because of a gap in the market - up until recently, it was v
 
 ### Features
 - 7 days of data, built every 8 hours. If your TV/IPTV client supports auto-refresh, this is very much a set-and-forget solution.
-- Supports regional channels, as well as just London-based ones; defauted to Ireland, but can be changed
+- Supports regional channels, as well as just London-based ones; defaulted to Ireland, but can be changed
 - Includes data for both TV and radio stations.
 - Data is reliably sourced from UK TV providers, rather than third parties. 
-- Builds to an XMLTV file, complete with channel logos and programme images.
+- Builds to an XMLTV file, complete with channel logos and program images.
 
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
 ```
-https://raw.githubusercontent.com/damianflynn/Freeview-EPG/master/epg.xml
+https://raw.githubusercontent.com/damianflynn/Freeview-EPG/main/epg.xml
 ```
 
 ## Contributing
