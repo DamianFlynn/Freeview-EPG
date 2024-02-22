@@ -127,6 +127,13 @@ Make the channels and programmes into something readable by XMLTV
             icon_src.text = ''
 
     for pr in programmes:
+
+        # <programme channel="RTENews.ie" start="20240222090000 +0000" stop="20240222093000 +0000">
+        #   <title lang="en">EuroNews</title>
+        #   <desc lang="en">Live news update from Euronews</desc>
+        #   <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/02cc4730-d21a-3665-8cbd-d795f99a2f62/2804"/>
+        # </programme>
+
         programme = etree.SubElement(data, 'programme')
         start_time = datetime.fromtimestamp(pr.get('start'), tz).strftime(dt_format)
         end_time = datetime.fromtimestamp(pr.get('stop'), tz).strftime(dt_format)
@@ -143,6 +150,15 @@ Make the channels and programmes into something readable by XMLTV
             description = etree.SubElement(programme, "desc")
             description.set('lang', 'en')
             description.text = remove_control_characters(pr.get("description"))
+        
+            # if description contains Season and Episode then add the following
+            season_episode_info = re.search(r'S(\d+) Ep(\d+)', pr.get('description'))
+            if season_episode_info:
+                season = season_episode_info.group(1)
+                episode = season_episode_info.group(2)
+                episode_num = etree.SubElement(programme, "episode-num")
+                episode_num.set('system', 'xmltv_ns')
+                episode_num.text = f'{int(season):02d}.{int(episode):02d}'
 
         if pr.get('icon') is not None:
             icon = etree.SubElement(programme, "icon")
