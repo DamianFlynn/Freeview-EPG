@@ -158,7 +158,7 @@ Make the channels and programmes into something readable by XMLTV
                 episode = season_episode_info.group(2)
                 episode_num = etree.SubElement(programme, "episode-num")
                 episode_num.set('system', 'xmltv_ns')
-                episode_num.text = f'{int(season):02d}.{int(episode):02d}'
+                episode_num.text = f'{int(season) - 1:02d}.{int(episode) - 1:02d}'
 
         if pr.get('icon') is not None:
             icon = etree.SubElement(programme, "icon")
