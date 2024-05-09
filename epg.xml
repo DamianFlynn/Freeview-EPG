@@ -35,11 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20240508232500 +0100" stop="20240509070000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest International and European news.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d8de183e-3e4a-3857-bfb5-fcd8202729cc/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20240509070000 +0100" stop="20240509090000 +0100">
     <title lang="en">Morning Ireland</title>
     <desc lang="en">Morning news programme.</desc>
@@ -169,6 +164,11 @@
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b73a70fc-5b81-3dd1-bf34-adf95e630835/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20240510070000 +0100" stop="20240510090000 +0100">
+    <title lang="en">Morning Ireland</title>
+    <desc lang="en">Morning news programme.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/70863da9-5aa0-3ef5-a04a-50b8da173d34/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20240510000000 +0100" stop="20240510070000 +0100">
     <title lang="en">EuroNews</title>
@@ -1075,18 +1075,6 @@
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/611aee6f-e0d2-3de1-923e-b0c7f77103ce/2804"/>
   </programme>
-  <programme channel="VirginFour.ie" start="20240509000000 +0100" stop="20240509025700 +0100">
-    <title lang="en">This Morning</title>
-    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240509025700 +0100" stop="20240509063000 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240509063000 +0100" stop="20240509073000 +0100">
-    <title lang="en">The Tonight Show</title>
-    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues.</desc>
-  </programme>
   <programme channel="VirginFour.ie" start="20240509073000 +0100" stop="20240509083000 +0100">
     <title lang="en">UEFA Man in the Middle</title>
     <desc lang="en">In the final episode of the series, Man In The Middle goes behind the scenes as UEFA and its referees prepare for the quarter-finals of the UEFA Champions League in Lisbon. S1 Ep4</desc>
@@ -1172,6 +1160,19 @@
   <programme channel="VirginFour.ie" start="20240510000000 +0100" stop="20240510025700 +0100">
     <title lang="en">This Morning</title>
     <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240510025700 +0100" stop="20240510063000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240510063000 +0100" stop="20240510073000 +0100">
+    <title lang="en">The Tonight Show</title>
+    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240510073000 +0100" stop="20240510083000 +0100">
+    <title lang="en">Winning Combination</title>
+    <desc lang="en">Quiz show presented by Omid Djalili. Nine people - Carol, Matthew, Akua, Niamh, Jane, Rhys, Alan, Spencer and Joe - battle to reach the final and the chance to win a cash prize. S1 Ep1</desc>
+    <episode-num system="xmltv_ns">00.00</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240510000000 +0100" stop="20240510025700 +0100">
     <title lang="en">This Morning</title>
@@ -1899,56 +1900,6 @@
     <title lang="en">This Morning</title>
     <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
   </programme>
-  <programme channel="SkyNews.ie" start="20240509000000 +0100" stop="20240509010000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/47cd6099-6c3a-3a4d-9879-2c281c83cd3a/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509010000 +0100" stop="20240509020000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b5852a66-b33e-3c44-a526-bcbfacf66514/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509020000 +0100" stop="20240509030000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a184f721-1868-348c-8f33-0075cd3f304c/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509030000 +0100" stop="20240509040000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4fcac160-83c7-34ca-8c77-d1fe22009c37/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509040000 +0100" stop="20240509050000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/bb098cea-7d45-319d-9e64-4498476e3918/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509050000 +0100" stop="20240509060000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3978f402-51e6-3a0f-ad66-6b3c828aa3df/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509060000 +0100" stop="20240509063000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c2db0f58-9f5d-37fe-aba3-f8162017d60a/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509063000 +0100" stop="20240509070000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e83f8a0a-825e-3b2c-93e7-938f7a404e80/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509070000 +0100" stop="20240509073000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/214e6870-cb09-3237-9102-2d6ba7155068/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240509073000 +0100" stop="20240509080000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/16485b4b-25dc-394d-86ac-eaa23b2e308c/4054"/>
-  </programme>
   <programme channel="SkyNews.ie" start="20240509080000 +0100" stop="20240509083000 +0100">
     <title lang="en">Breakfast with Kay Burley</title>
     <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
@@ -2113,6 +2064,56 @@
     <title lang="en">Sky News</title>
     <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c25a82cf-3a06-32b9-8891-c7f823db4087/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510010000 +0100" stop="20240510020000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f0620a8b-3294-3a3e-96ce-2c08c0ec163c/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510020000 +0100" stop="20240510030000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/79ae5c0c-8b10-332f-83e6-7d99b1cf0990/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510030000 +0100" stop="20240510040000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d6b2c604-660f-3ab5-9935-76e9972aa19d/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510040000 +0100" stop="20240510050000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7a883b27-beee-30e8-bb63-323284e978af/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510050000 +0100" stop="20240510060000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fd37a111-ba5b-3cbe-a5c0-568ac864e06d/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510060000 +0100" stop="20240510063000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f7f0dcd6-b341-3a58-8962-9afa4b581532/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510063000 +0100" stop="20240510070000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9c2446b1-3739-367c-b4d3-663f061a227e/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510070000 +0100" stop="20240510073000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5c3b80c2-2b19-3d73-a922-bf1b10a85e27/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510073000 +0100" stop="20240510080000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d0a68ad4-1d35-38cd-85a1-86d0d5055f0a/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240510080000 +0100" stop="20240510083000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8e2a8212-a670-3c96-a2e4-6345a04cc5ba/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240510010000 +0100" stop="20240510020000 +0100">
     <title lang="en">Sky News</title>
