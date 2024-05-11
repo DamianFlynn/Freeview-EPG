@@ -35,11 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20240510232500 +0100" stop="20240511080000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest International and European news.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/235868af-0293-384c-b84c-3689809d170f/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20240511080000 +0100" stop="20240511090000 +0100">
     <title lang="en">Current Affairs Round-Up</title>
     <desc lang="en">News and Current Affairs highlights from the past week.</desc>
@@ -139,6 +134,11 @@
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2a355510-ed17-3905-ac80-716d06b626a2/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20240512080000 +0100" stop="20240512090000 +0100">
+    <title lang="en">Current Affairs Round-Up</title>
+    <desc lang="en">News and Current Affairs highlights from the past week.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cbf02f54-71b2-35a7-8412-d65bb609c584/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20240511231500 +0100" stop="20240512080000 +0100">
     <title lang="en">EuroNews</title>
@@ -1050,19 +1050,6 @@
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9b19eef7-a282-3bc3-bd31-1b642a74bc9f/2804"/>
   </programme>
-  <programme channel="VirginFour.ie" start="20240511000500 +0100" stop="20240511030200 +0100">
-    <title lang="en">This Morning</title>
-    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240511030200 +0100" stop="20240511070000 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240511070000 +0100" stop="20240511080000 +0100">
-    <title lang="en">Fota: Into the Wild</title>
-    <desc lang="en">Wildlife documentary series. The opening programme focuses on the three Asiatic lions introduced to Fota Wildlife Park in 2016 in order to start a new breeding programme. S1 Ep1</desc>
-    <episode-num system="xmltv_ns">00.00</episode-num>
-  </programme>
   <programme channel="VirginFour.ie" start="20240511080000 +0100" stop="20240511090000 +0100">
     <title lang="en">Meet the Parents</title>
     <desc lang="en">Holly Willoughby puts the love lives of singletons in the hands of their parents. One girl and one guy choose from three potential partners, but first have to meet their folks. S1 Ep1</desc>
@@ -1141,6 +1128,30 @@
     <title lang="en">The Real Housewives of Beverly Hills</title>
     <desc lang="en">Lisa invites the women to join her on a vacation to Rome; Erika rebuffs Denise's attempts at reconciliation; Garcelle delves into Sutton's past. S10 Ep11</desc>
     <episode-num system="xmltv_ns">09.10</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240512003000 +0100" stop="20240512012500 +0100">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Lisa tries to prevent the group's vacation from being ruined after rumours about Denise begin to spread; Kyle judges Dorit and Erika's clothes. S10 Ep12</desc>
+    <episode-num system="xmltv_ns">09.11</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240512012500 +0100" stop="20240512021000 +0100">
+    <title lang="en">Real Housewives of Orange County</title>
+    <desc lang="en">Shannon persists in her behaviour by staying isolated from the other ladies, so they decide to move ahead with their trip by taking a climb up a waterfall. S13 Ep15</desc>
+    <episode-num system="xmltv_ns">12.14</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240512021000 +0100" stop="20240512070500 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240512070500 +0100" stop="20240512080000 +0100">
+    <title lang="en">Fota: Into the Wild</title>
+    <desc lang="en">Wildlife documentary series. Fota's park staff Aidan Rafferty and Sean McKeown visit the Vanatori Neamt Nature Park in Romania to check the progress of two Fota-bred female bison. S1 Ep2</desc>
+    <episode-num system="xmltv_ns">00.01</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240512080000 +0100" stop="20240512090000 +0100">
+    <title lang="en">Meet the Parents</title>
+    <desc lang="en">An unemployed man unwittingly meets actors pretending to be part of his girlfriend's family, including her father, who leads his own religion from his house. S1 Ep2</desc>
+    <episode-num system="xmltv_ns">00.01</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240512003000 +0100" stop="20240512012500 +0100">
     <title lang="en">The Real Housewives of Beverly Hills</title>
@@ -1855,56 +1866,6 @@
     <desc lang="en">The women continue their adventures in Rome; the women visit the Vatican; Denise makes a speech during dinner that upsets the other women. S10 Ep14</desc>
     <episode-num system="xmltv_ns">09.13</episode-num>
   </programme>
-  <programme channel="SkyNews.ie" start="20240511000000 +0100" stop="20240511010000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2c279340-b228-39d5-9bed-ec4bd7cf4be2/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511010000 +0100" stop="20240511020000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/27621175-e4a0-3dc9-976c-d5cd9c51ff1f/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511020000 +0100" stop="20240511030000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e830e811-8069-3445-998d-c7f7fed56999/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511030000 +0100" stop="20240511040000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c1d8021f-6499-3199-a998-27d85826b24c/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511040000 +0100" stop="20240511050000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/dcf0b10c-cc09-3442-9bb4-dac3d453f697/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511050000 +0100" stop="20240511060000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/aec894ea-1e45-39f9-9576-c5d61de05e29/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511060000 +0100" stop="20240511063000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ceeab958-434f-35cd-878a-959305e63d59/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511063000 +0100" stop="20240511070000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/6949315b-181c-320d-9e65-8db4d0c9f960/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511070000 +0100" stop="20240511073000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a8e70308-ab66-39df-b2c1-966cb5128fb4/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240511073000 +0100" stop="20240511080000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/74c984aa-cd30-36f5-9770-9569c9760feb/4054"/>
-  </programme>
   <programme channel="SkyNews.ie" start="20240511080000 +0100" stop="20240511083000 +0100">
     <title lang="en">Breakfast with Anna Jones</title>
     <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
@@ -2069,6 +2030,56 @@
     <title lang="en">Sky News</title>
     <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ceee6c9f-18f8-34c9-9206-0a691ba16162/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512010000 +0100" stop="20240512020000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/59587167-13a3-3238-ad4e-356fb5b76949/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512020000 +0100" stop="20240512030000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1a71d77b-16ef-3d44-8a6b-786ad9ac6456/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512030000 +0100" stop="20240512040000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f874a665-cd8c-383b-8776-a70f0dc2c502/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512040000 +0100" stop="20240512050000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fe84dd84-3d7f-30fd-9372-4016ccab094b/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512050000 +0100" stop="20240512060000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a732dc91-0de9-3173-9c7e-0ae048e3a567/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512060000 +0100" stop="20240512063000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e6ca4df6-33ce-30f5-8bc3-64fe8c08f4fa/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512063000 +0100" stop="20240512070000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a8be7a9b-2aff-3845-97f3-82a075d288ff/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512070000 +0100" stop="20240512073000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/75b1aadb-8d55-39a7-94a8-fd90b452e8a7/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512073000 +0100" stop="20240512080000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a4c049fa-8f5c-32cd-9bd9-6c10c46576c4/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240512080000 +0100" stop="20240512083000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/0c1f58fb-1202-3c96-9a83-143d30858e7d/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240512010000 +0100" stop="20240512020000 +0100">
     <title lang="en">Sky News</title>
