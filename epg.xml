@@ -35,11 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20240524232500 +0100" stop="20240525080000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest International and European news.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8fd3de77-8e2c-3dae-9c10-bf3e408ae712/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20240525080000 +0100" stop="20240525090000 +0100">
     <title lang="en">Current Affairs Round-Up</title>
     <desc lang="en">News and Current Affairs highlights from the past week.</desc>
@@ -144,6 +139,11 @@
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/82889584-6af5-3ed4-9d71-8525bf6f2203/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20240526080000 +0100" stop="20240526090000 +0100">
+    <title lang="en">Current Affairs Round-Up</title>
+    <desc lang="en">News and Current Affairs highlights from the past week.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c3e1fb53-dc68-3e92-af5b-cd2cbd43e662/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20240525231500 +0100" stop="20240526080000 +0100">
     <title lang="en">EuroNews</title>
@@ -935,18 +935,6 @@
     <desc lang="en">Príomhscéalta an lae ó Nuacht RTÉ.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/24e199bc-1042-31c9-a350-69a5c1f544aa/2804"/>
   </programme>
-  <programme channel="VirginFour.ie" start="20240525000000 +0100" stop="20240525032700 +0100">
-    <title lang="en">This Morning</title>
-    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240525032700 +0100" stop="20240525061000 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240525061000 +0100" stop="20240525075000 +0100">
-    <title lang="en">Pride of Britain Awards 2022</title>
-    <desc lang="en">A celebration of the ordinary people of all ages and walks of life who have worked to make the world a better place.</desc>
-  </programme>
   <programme channel="VirginFour.ie" start="20240525075000 +0100" stop="20240525085000 +0100">
     <title lang="en">Meet the Parents</title>
     <desc lang="en">Holly Willoughby puts the love lives of more singletons in the hands of those that know them best - their parents. Will the parents big up their kids, or merely embarrass them? S1 Ep5</desc>
@@ -1003,7 +991,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240525160000 +0100" stop="20240525170000 +0100">
     <title lang="en">Impossible Engineering</title>
-    <desc lang="en">The Virginia Class is one of the most advanced nuclear powered submarines. These technological titans are almost 400 feet long and weigh 7,800 tons S2 Ep7</desc>
+    <desc lang="en">A detailed look is taken at the Virginia Class, one of the most advanced nuclear-powered, fast-attack submarines ever built for the United States Navy. S2 Ep7</desc>
     <episode-num system="xmltv_ns">01.06</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240525170000 +0100" stop="20240525190000 +0100">
@@ -1065,6 +1053,25 @@
     <desc lang="en">Holly Willoughby puts the love lives of more singletons in the hands of those that know them best - their parents. Will the parents big up their kids, or merely embarrass them? S1 Ep6</desc>
     <episode-num system="xmltv_ns">00.05</episode-num>
   </programme>
+  <programme channel="VirginFour.ie" start="20240526005500 +0100" stop="20240526015200 +0100">
+    <title lang="en">Real Housewives of Orange County</title>
+    <desc lang="en">The women are brought together to have a discussion about their year, and unresolved disputes become prevalent during the course of the talks. S13 Ep19</desc>
+    <episode-num system="xmltv_ns">12.18</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240526015200 +0100" stop="20240526070500 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240526070500 +0100" stop="20240526080000 +0100">
+    <title lang="en">Tipping Point</title>
+    <desc lang="en">Ben Shephard hosts the quiz show in which four players take on an extraordinary machine. S11 Ep5</desc>
+    <episode-num system="xmltv_ns">10.04</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240526080000 +0100" stop="20240526090000 +0100">
+    <title lang="en">Meet the Parents</title>
+    <desc lang="en">Holly Willoughby puts the love lives of more singletons in the hands of those that know them best - their parents. Will the parents big up their kids, or merely embarrass them? S1 Ep6</desc>
+    <episode-num system="xmltv_ns">00.05</episode-num>
+  </programme>
   <programme channel="VirginFour.ie" start="20240526090000 +0100" stop="20240526100000 +0100">
     <title lang="en">Cash Trapped</title>
     <desc lang="en">Quiz show presented by Bradley Walsh. S3 Ep29</desc>
@@ -1072,7 +1079,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240526100000 +0100" stop="20240526110000 +0100">
     <title lang="en">John and Lisa's Weekend Kitchen</title>
-    <desc lang="en">John and Lisa create fluffy American pancakes, cowboy beans served with loaded potato skins, and chocolate-chip cookie ice cream sandwiches. S4 Ep9</desc>
+    <desc lang="en">John and Lisa make two kinds of pancakes, pizza with stuffed crust, chocolate chip cookie ice cream sandwiches and beans with loaded potato skins. S4 Ep9</desc>
     <episode-num system="xmltv_ns">03.08</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240526110000 +0100" stop="20240526120000 +0100">
@@ -1109,7 +1116,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240526175500 +0100" stop="20240526190000 +0100">
     <title lang="en">Wycliffe</title>
-    <desc lang="en">Drama series about a Cornish police detective. Wycliffe is summoned to trace a farmer who has disappeared. S2 Ep5</desc>
+    <desc lang="en">An old farmer disappears after his house is torched along with a mystery man who rang the authorities, and Wycliffe believes the man is hiding George. S2 Ep5</desc>
     <episode-num system="xmltv_ns">01.04</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240526190000 +0100" stop="20240526210000 +0100">
@@ -1119,12 +1126,12 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240526210000 +0100" stop="20240526221500 +0100">
     <title lang="en">Real Housewives of Lagos</title>
-    <desc lang="en">The Lagos queens continue to live the soft life in Dubai with exciting yacht cruise, sipping wine at the Billionaire's Club and tripping in a Lamborghini. S1 Ep11</desc>
+    <desc lang="en">The queens go on a yacht cruise, drink wine at the Billionaire's Club and take a trip in a Lamborghini, but a pool party takes a turn when secrets are revealed. S1 Ep11</desc>
     <episode-num system="xmltv_ns">00.10</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240526221500 +0100" stop="20240526233000 +0100">
     <title lang="en">Real Housewives of Lagos</title>
-    <desc lang="en">Uti Nwachukwu debuts as host for The Real Housewives of Lagos, as the ladies get together for an epic review of Season 1. S1 Ep12</desc>
+    <desc lang="en">Iyabo discovers who told Laura what happened at the beach house getaway; Laura confronts Carolyna about accusations of being pimped; Carolyna and Tiannah clash. S1 Ep12</desc>
     <episode-num system="xmltv_ns">00.11</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240526233000 +0100" stop="20240527003000 +0100">
@@ -1182,7 +1189,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240527130000 +0100" stop="20240527140000 +0100">
     <title lang="en">John and Lisa's Weekend Kitchen</title>
-    <desc lang="en">The programme features a spiced-beer-can chicken with saffron potatoes, a gammon steak dish and a coconut and polenta cake with honey syrup for dessert. S4 Ep10</desc>
+    <desc lang="en">John and Lisa make spiced beer chicken with saffron potatoes, homemade crisps and dips, summer cocktails, gammon steak and coconut and polenta cake. S4 Ep10</desc>
     <episode-num system="xmltv_ns">03.09</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240527140000 +0100" stop="20240527145500 +0100">
@@ -1191,7 +1198,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240527145500 +0100" stop="20240527155500 +0100">
     <title lang="en">The Royal</title>
-    <desc lang="en">Goodwin returns to England with Nkeshi, but his plans for her future face opposition. A singing superstar requires a hospital stay but Frankie almost loses his job. S6 Ep2</desc>
+    <desc lang="en">Dr Goodwin returns from Africa with an orphan he smuggled into the country illegally; an unhappy celebrity nearly costs Frankie his job; Dr Weatherill deals with an alcoholic. S6 Ep2</desc>
     <episode-num system="xmltv_ns">05.01</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240527155500 +0100" stop="20240527170000 +0100">
@@ -1201,12 +1208,12 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240527170000 +0100" stop="20240527173000 +0100">
     <title lang="en">Gino's Italian Coastal Escape</title>
-    <desc lang="en">Gino visits a farmhouse which grows everything from figs to almonds to olives. After a walk through the ancient olive groves, he makes spaghetti al pepperoncino. S6 Ep6</desc>
+    <desc lang="en">Gino visits a farmhouse which grows everything from figs to almonds to olives and he makes spaghetti al pepperoncino after a walk through the ancient olive groves. S6 Ep6</desc>
     <episode-num system="xmltv_ns">05.05</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240527173000 +0100" stop="20240527180000 +0100">
     <title lang="en">Golf's Greatest Holes</title>
-    <desc lang="en">Paul McGinley plays some of the best holes on the world's top courses. Here, a visit to Portmarnock Golf Club and Galgorm Castle, which hosted the 2020 Dubai Duty Free Irish Open. S2021</desc>
+    <desc lang="en">Paul visits Portmarnock Golf Club and Galgorm Castle, which hosted the 2020 Dubai Duty Free Irish Open. S2021</desc>
   </programme>
   <programme channel="VirginFour.ie" start="20240527180000 +0100" stop="20240527190000 +0100">
     <title lang="en">Home Fires</title>
@@ -1295,7 +1302,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240528130000 +0100" stop="20240528140000 +0100">
     <title lang="en">Inside Paddington Station</title>
-    <desc lang="en">Thousands of travellers embark from Paddington Station to go all over the UK. S2 Ep18</desc>
+    <desc lang="en">The bank holiday is thrown into chaos due to an incident near Ealing Broadway; a suicidal person causes the route manager to cancel all trains leaving the station. S2 Ep18</desc>
     <episode-num system="xmltv_ns">01.17</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240528140000 +0100" stop="20240528145500 +0100">
@@ -1304,7 +1311,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240528145500 +0100" stop="20240528155500 +0100">
     <title lang="en">The Royal</title>
-    <desc lang="en">When a mother falls ill, the question arises - what will happen to her children? Can their father kick his drink habit, or will they be put into care? S6 Ep3</desc>
+    <desc lang="en">A woman falls ill, and the staff wonders if her children will be okay if she passes; Makori and Goodwin struggle with a case of meningitis. S6 Ep3</desc>
     <episode-num system="xmltv_ns">05.02</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240528155500 +0100" stop="20240528170000 +0100">
@@ -1394,7 +1401,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240529130000 +0100" stop="20240529140000 +0100">
     <title lang="en">Inside Paddington Station</title>
-    <desc lang="en">Thousands of travellers embark from Paddington Station to go all over the UK. S2 Ep20</desc>
+    <desc lang="en">The station prepares for the holiday season with treats for the passengers. S2 Ep20</desc>
     <episode-num system="xmltv_ns">01.19</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240529140000 +0100" stop="20240529145500 +0100">
@@ -1403,7 +1410,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240529145500 +0100" stop="20240529155500 +0100">
     <title lang="en">The Royal</title>
-    <desc lang="en">Carnegie attempts to solicit money for the new hospital wing from a wealthy patient. Makori and Nkeshi leave for pastures new. S6 Ep4</desc>
+    <desc lang="en">Lady Isabella Martindale has a horse-riding accident, and Carnegie attempts to get her to donate to the private wards. S6 Ep4</desc>
     <episode-num system="xmltv_ns">05.03</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240529155500 +0100" stop="20240529170000 +0100">
@@ -1488,7 +1495,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240530110000 +0100" stop="20240530120000 +0100">
     <title lang="en">UEFA Europa League &amp; Europa...</title>
-    <desc lang="en">...Conference League Highlights. Clips from the latest round of the UEFA Europa League and UEFA Europa Conference League. S2023 Ep16</desc>
+    <desc lang="en">...Conference League Highlights. Clips of the top moments from the UEFA Europa League matchnight. S2023 Ep16</desc>
     <episode-num system="xmltv_ns">2022.15</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240530120000 +0100" stop="20240530130000 +0100">
@@ -1498,7 +1505,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240530130000 +0100" stop="20240530140000 +0100">
     <title lang="en">Happy Campers: The Caravan Park</title>
-    <desc lang="en">The holidaymakers are arriving at the parks in their droves. In Cornwall, head of entertainment Matt decides to pit the guests against each other in a grand talent contest. S2 Ep1</desc>
+    <desc lang="en">The holidaymakers arrive at the parks in their droves; in Cornwall, head of entertainment Matt decides to pit the guests against each other in a grand talent contest. S2 Ep1</desc>
     <episode-num system="xmltv_ns">01.00</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240530140000 +0100" stop="20240530145500 +0100">
@@ -1507,7 +1514,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240530145500 +0100" stop="20240530155500 +0100">
     <title lang="en">The Royal</title>
-    <desc lang="en">A mix-up over job offers at the Royal leads to disappointment. Catherine sets Carnegie straight over their relationship. A night out with friends ends horribly for Stella. S6 Ep5</desc>
+    <desc lang="en">Someone is upset when a mix-up over a job offer occurs; Catherine speaks with Carnegie about their relationship; a night out ends badly for Stella. S6 Ep5</desc>
     <episode-num system="xmltv_ns">05.04</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240530155500 +0100" stop="20240530170000 +0100">
@@ -1527,7 +1534,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240530180000 +0100" stop="20240530190000 +0100">
     <title lang="en">Home Fires</title>
-    <desc lang="en">Drama. In June 1940, Britain faces the threat of imminent invasion. As the Battle of Britain looms, the villagers of Great Paxford live under a cloud of fear and suspicion S2 Ep1</desc>
+    <desc lang="en">In June 1940, Britain faces the threat of imminent invasion; as the Battle of Britain looms, the villagers of Great Paxford live under a cloud of fear and suspicion S2 Ep1</desc>
     <episode-num system="xmltv_ns">01.00</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240530190000 +0100" stop="20240530200000 +0100">
@@ -1606,7 +1613,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240531145500 +0100" stop="20240531155500 +0100">
     <title lang="en">The Royal</title>
-    <desc lang="en">Stella struggles to come to terms with her ordeal, while Dr Ormerod deals with a dangerous armed man. Dr Goodwin is visited by a ghost from his past. S6 Ep6</desc>
+    <desc lang="en">Dr Weatherill returns to work after having her baby; a family causes issues for the hospital staff; Dr Goodwin makes a promise to a dying woman. S6 Ep6</desc>
     <episode-num system="xmltv_ns">05.05</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240531155500 +0100" stop="20240531170000 +0100">
@@ -1626,7 +1633,7 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240531180000 +0100" stop="20240531190000 +0100">
     <title lang="en">Home Fires</title>
-    <desc lang="en">Drama series set in a Cheshire village during the Second World War. News of the Bowers' divorce hits the papers and Laura's disgrace becomes public S2 Ep2</desc>
+    <desc lang="en">The newspapers report on the Bowers' divorce; when Laura's disgrace becomes public knowledge, her friendship with Tom is jeopardized. S2 Ep2</desc>
     <episode-num system="xmltv_ns">01.01</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240531190000 +0100" stop="20240531200000 +0100">
@@ -1763,56 +1770,6 @@
     <title lang="en">Real Housewives of Orange County</title>
     <desc lang="en">Kelly's behaviour over the past year is reviewed and addressed by all the ladies; Emily, Shannon, Kelly and Gina have a disagreement about Eddie's party. S13 Ep21</desc>
     <episode-num system="xmltv_ns">12.20</episode-num>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525000000 +0100" stop="20240525010000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/58639296-3733-3e80-b766-afcb73f8af11/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525010000 +0100" stop="20240525020000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/85073137-6153-3967-ae4e-1ed8cf5b9611/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525020000 +0100" stop="20240525030000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8a1c0adc-96c1-3269-8059-41581ecc7506/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525030000 +0100" stop="20240525040000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/49e91de1-990f-3f48-9874-3cc31e0a8fef/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525040000 +0100" stop="20240525050000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a2664fd6-7f54-30c3-a520-70ef64b93085/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525050000 +0100" stop="20240525060000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/6758d313-179e-3b16-b580-541e594139f5/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525060000 +0100" stop="20240525063000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/dcca2af9-51d4-3b09-9ce1-5395cd2c932a/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525063000 +0100" stop="20240525070000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a8cfdff6-2828-35a6-a62c-254bec21b741/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525070000 +0100" stop="20240525073000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e200b25d-731b-382b-b023-7f840a6a73b5/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240525073000 +0100" stop="20240525080000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f43be109-5192-343b-99f3-c02a15e016cf/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240525080000 +0100" stop="20240525083000 +0100">
     <title lang="en">Breakfast with Anna Jones</title>
@@ -1978,6 +1935,56 @@
     <title lang="en">Sky News</title>
     <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/55a321c0-59ca-3fb0-8775-9d7a8cb9843a/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526010000 +0100" stop="20240526020000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/98da981f-16fb-30b7-a9c2-0af8116a590c/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526020000 +0100" stop="20240526030000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ceb882ed-406d-3e93-b8ef-f78c75e44348/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526030000 +0100" stop="20240526040000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7f65cf94-2775-3151-a631-239ed526c1e4/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526040000 +0100" stop="20240526050000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/38164d89-f5be-34c5-aaa2-b609c051f640/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526050000 +0100" stop="20240526060000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/10a61729-6bb2-3688-9300-72696163810c/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526060000 +0100" stop="20240526063000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fa6ff50b-9f56-3b2a-8326-0587f5001377/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526063000 +0100" stop="20240526070000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7b5bbc5a-6e90-355d-b365-d3718692f6ae/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526070000 +0100" stop="20240526073000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/906baa01-f264-3deb-a53e-36a65e4a16ec/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526073000 +0100" stop="20240526080000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/efd398d8-8982-385b-9147-bb3b6354c66c/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240526080000 +0100" stop="20240526083000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cb16ac2d-eb5e-3af1-81cc-cfb70cff1fc2/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240526010000 +0100" stop="20240526020000 +0100">
     <title lang="en">Sky News</title>
