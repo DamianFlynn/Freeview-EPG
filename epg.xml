@@ -35,11 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20240626232500 +0100" stop="20240627070000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest International and European news.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f639cd42-a952-3b8d-bd4a-a60525db62dd/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20240627070000 +0100" stop="20240627090000 +0100">
     <title lang="en">Morning Ireland</title>
     <desc lang="en">Morning news programme.</desc>
@@ -169,6 +164,11 @@
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9c2b3408-d456-3a4b-af15-7f25cbba3cda/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20240628070000 +0100" stop="20240628090000 +0100">
+    <title lang="en">Morning Ireland</title>
+    <desc lang="en">Morning news programme.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4197142f-74dc-3abf-a115-197ed8bf3c62/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20240628000000 +0100" stop="20240628070000 +0100">
     <title lang="en">EuroNews</title>
@@ -1064,23 +1064,6 @@
     <title lang="en">UK Election 2024</title>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9c374803-ca93-3c10-bdf7-317f5e4c79fd/2804"/>
   </programme>
-  <programme channel="VirginFour.ie" start="20240627000000 +0100" stop="20240627032900 +0100">
-    <title lang="en">This Morning</title>
-    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240627032900 +0100" stop="20240627054500 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240627054500 +0100" stop="20240627070000 +0100">
-    <title lang="en">The Masked Dancer</title>
-    <desc lang="en">The dancers perform "Wannabe," "Run the World (Girls)," "Finesse," "Canned Heat," "Under the Sea" and "House of Fun"; one of the dancers is eliminated and unmasked. S2 Ep6</desc>
-    <episode-num system="xmltv_ns">01.05</episode-num>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240627070000 +0100" stop="20240627080000 +0100">
-    <title lang="en">The Tonight Show</title>
-    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues.</desc>
-  </programme>
   <programme channel="VirginFour.ie" start="20240627080000 +0100" stop="20240627090000 +0100">
     <title lang="en">Sport Stories</title>
     <desc lang="en">Famed Irish footballer Paul McGrath discusses his professional journey and the relationship he had with two other key football figures.</desc>
@@ -1161,6 +1144,23 @@
   <programme channel="VirginFour.ie" start="20240628000000 +0100" stop="20240628032900 +0100">
     <title lang="en">This Morning</title>
     <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240628032900 +0100" stop="20240628054000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240628054000 +0100" stop="20240628065500 +0100">
+    <title lang="en">The Masked Dancer</title>
+    <desc lang="en">The dancers perform to "I'll Be Ther for You," "We Don't Talk about Bruno," "Instruction," "Butter," and "Youngblood"; two dancers are unmasked. S2 Ep7</desc>
+    <episode-num system="xmltv_ns">01.06</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240628065500 +0100" stop="20240628075500 +0100">
+    <title lang="en">The Tonight Show</title>
+    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240628075500 +0100" stop="20240628085500 +0100">
+    <title lang="en">Sport Stories</title>
+    <desc lang="en">Paul McGrath recalls his experiences of playing in three major tournaments and discusses some of the issues he faced both on and off the pitch.</desc>
   </programme>
   <programme channel="VirginFour.ie" start="20240628000000 +0100" stop="20240628032900 +0100">
     <title lang="en">This Morning</title>
@@ -1864,56 +1864,6 @@
     <title lang="en">This Morning</title>
     <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
   </programme>
-  <programme channel="SkyNews.ie" start="20240627000000 +0100" stop="20240627010000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/789fe1a7-6557-358e-9af5-41d03e570bc7/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627010000 +0100" stop="20240627020000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c0c4dbb0-6301-3c2a-a084-b093f3ef78b6/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627020000 +0100" stop="20240627030000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e7cf8558-f506-34ed-9996-8400cfa43e3a/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627030000 +0100" stop="20240627040000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/35b4f030-c692-377a-8cc6-1b0a515672ae/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627040000 +0100" stop="20240627050000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8256261f-5959-35e8-88a4-6ea525c100bf/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627050000 +0100" stop="20240627060000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3f112fd9-ada9-3379-a16c-c4bd24455df3/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627060000 +0100" stop="20240627063000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c0896af4-a878-38b1-9d5f-460d908d0845/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627063000 +0100" stop="20240627070000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2b4c967c-88be-3e71-a89d-30974a6fc059/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627070000 +0100" stop="20240627073000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/294b4649-114d-3fc1-b2f4-c09e06822ceb/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240627073000 +0100" stop="20240627080000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e4dbcd26-67a4-3b40-a035-9841ce87e4d1/4054"/>
-  </programme>
   <programme channel="SkyNews.ie" start="20240627080000 +0100" stop="20240627083000 +0100">
     <title lang="en">Breakfast with Kay Burley</title>
     <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
@@ -2087,12 +2037,57 @@
   <programme channel="SkyNews.ie" start="20240628020000 +0100" stop="20240628040000 +0100">
     <title lang="en">US Presidential Debate</title>
     <desc lang="en">NBC News coverage as Joe Biden and Donald Trump go head to head in the CNN Presidential election debate.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fafc5fe0-ae86-36f8-8e4e-a0bd64d73c92/4054"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e1d3403c-4195-31ee-9656-156c9cb983f7/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240628040000 +0100" stop="20240628050000 +0100">
     <title lang="en">US Presidential Debate</title>
     <desc lang="en">NBC News reaction and analysis after Joe Biden and Donald Trump go head to head in the first Presidential debate.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/206e25eb-6ad0-305c-8385-2575c56734ef/4054"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e1d3403c-4195-31ee-9656-156c9cb983f7/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628050000 +0100" stop="20240628060000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/00a9e5e2-1325-3d36-a667-304810bf00bb/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628060000 +0100" stop="20240628063000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/733954a9-4060-3028-88f6-818f5af09e6a/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628063000 +0100" stop="20240628070000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fb969d5e-0595-3ff6-9fae-f51dfd45665d/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628070000 +0100" stop="20240628073000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/65b446f1-ff0b-38e3-bf1a-cfa9ea90c04e/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628073000 +0100" stop="20240628080000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/07f35990-5cb1-37ba-906b-b2b5b4cf55e8/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628080000 +0100" stop="20240628083000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/50cfcc4f-7144-3604-bf77-cb23c1c6d924/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628010000 +0100" stop="20240628020000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fa24f624-e1c4-3bb9-9603-287dbad9b3e0/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628020000 +0100" stop="20240628040000 +0100">
+    <title lang="en">US Presidential Debate</title>
+    <desc lang="en">NBC News coverage as Joe Biden and Donald Trump go head to head in the CNN Presidential election debate.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e1d3403c-4195-31ee-9656-156c9cb983f7/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240628040000 +0100" stop="20240628050000 +0100">
+    <title lang="en">US Presidential Debate</title>
+    <desc lang="en">NBC News reaction and analysis after Joe Biden and Donald Trump go head to head in the first Presidential debate.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e1d3403c-4195-31ee-9656-156c9cb983f7/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240628050000 +0100" stop="20240628060000 +0100">
     <title lang="en">Sky News</title>
