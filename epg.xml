@@ -35,11 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20240904232500 +0100" stop="20240905070000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest International and European news.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/0ac25b45-7d32-3860-b404-513794fc1bc9/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20240905070000 +0100" stop="20240905090000 +0100">
     <title lang="en">Morning Ireland</title>
     <desc lang="en">Morning news programme.</desc>
@@ -149,6 +144,11 @@
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/bc36be3a-7f1f-3026-b230-b19607e47a5c/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20240906070000 +0100" stop="20240906090000 +0100">
+    <title lang="en">Morning Ireland</title>
+    <desc lang="en">Morning news programme.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7810447b-4c7c-3814-8ed3-5cdb41b0efea/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20240906000000 +0100" stop="20240906070000 +0100">
     <title lang="en">EuroNews</title>
@@ -1000,27 +1000,6 @@
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a86f6e50-bed2-3b93-baae-7808c49229e8/2804"/>
   </programme>
-  <programme channel="VirginThree.ie" start="20240904233500 +0100" stop="20240905003500 +0100">
-    <title lang="en">Next of Kin</title>
-    <desc lang="en">Omar tries to save Danny, which puts the counter-terrorism operation in jeopardy, and the police's trust in Danny is hindered in the process. S1 Ep5</desc>
-    <episode-num system="xmltv_ns">00.04</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/be6f83fe-87a8-46ed-b528-eb15726ac3e4/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20240905003500 +0100" stop="20240905014000 +0100">
-    <title lang="en">The War of the Worlds</title>
-    <desc lang="en">George and Mrs Elphinstone hide in an orphanage while Amy finds Ogilvy again and they all begin to piece together the information that may reveal how to stop the invasion. S1 Ep3</desc>
-    <episode-num system="xmltv_ns">00.02</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/acb9c342-3ae9-4e92-8aa3-112c0d16ec7c/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20240905014000 +0100" stop="20240905022600 +0100">
-    <title lang="en">Born to Kill</title>
-    <desc lang="en">Series profiling the world's most infamous serial killers and examining the people behind the evil acts.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/987c0f21-c864-4e02-b0d0-2283def63c6a/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20240905022600 +0100" stop="20240905072500 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
   <programme channel="VirginThree.ie" start="20240905072500 +0100" stop="20240905081500 +0100">
     <title lang="en">Heartbeat</title>
     <desc lang="en">Ventress puts his acting skills to the test when stolen Russian icons are smuggled into the area. Vernon is in trouble again when he and David train Alfred to hunt for truffles. S14 Ep15</desc>
@@ -1074,12 +1053,12 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240905145000 +0100" stop="20240905152000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Amy receives a frightening message, Lisa quizzes Kit about the evidence planted on Nathan, Summer comes to Paul's aid, and Leanne goes through the files on Rowan's laptop.</desc>
+    <desc lang="en">Amy receives a terrifying message; Lisa questions Kit about the evidence found on Nathan; Summer helps Paul; Leanne looks through the files on Rowan's laptop.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/367b525f-0077-33af-be64-a129f142e8db/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240905152000 +0100" stop="20240905155000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Amy receives a frightening message, Lisa quizzes Kit about the evidence planted on Nathan, Summer comes to Paul's aid, and Leanne goes through the files on Rowan's laptop.</desc>
+    <desc lang="en">Amy receives a terrifying message; Lisa questions Kit about the evidence found on Nathan; Summer helps Paul; Leanne looks through the files on Rowan's laptop.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/afe51414-fe0f-39dc-9717-cb253c583d16/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240905155000 +0100" stop="20240905164500 +0100">
@@ -1113,18 +1092,34 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240905220500 +0100" stop="20240905223500 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">A special stylised episode following Belle as she is haunted by her imagined futures and sees the choices she can make.</desc>
+    <desc lang="en">Belle is troubled by her potential futures and the choices she can make.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/584dd4bc-86cd-3ee0-b880-3dbd87de17f9/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240905223500 +0100" stop="20240905230500 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">A special stylised episode following Belle as she is haunted by her imagined futures and sees the choices she can make.</desc>
+    <desc lang="en">Belle is troubled by her potential futures and the choices she can make.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5df3dad2-9377-329a-b2f1-7246f4e3783a/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240905230500 +0100" stop="20240906011000 +0100">
     <title lang="en">Beyond the Blackboard</title>
     <desc lang="en">A young first-time teacher must tackle her fears and prejudices as she tries to make an impact on the lives of homeless children trying to get an education.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9c6c9b59-8634-423d-b924-ffb736414fb9/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20240906011000 +0100" stop="20240906020500 +0100">
+    <title lang="en">Born to Kill</title>
+    <desc lang="en">The people of Wichita, Kansas, are shaken when Dennis Rader is identified as the infamous sexual sadist and serial killer known as the BTK Strangler. S4 Ep2</desc>
+    <episode-num system="xmltv_ns">03.01</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/969f8f9f-d8dd-4578-b713-80bfb263391a/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20240906020500 +0100" stop="20240906072000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginThree.ie" start="20240906072000 +0100" stop="20240906081500 +0100">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">A new police sergeant receives a cool reception when he arrives from the city with big ideas. PC Walker is distracted by a young nurse at Ashfordly General. S14 Ep16</desc>
+    <episode-num system="xmltv_ns">13.15</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7b35608f-7105-4559-a738-9c36c4c71422/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240905230500 +0100" stop="20240906011000 +0100">
     <title lang="en">Beyond the Blackboard</title>
@@ -1189,12 +1184,12 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240906141000 +0100" stop="20240906144000 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">A special stylised episode following Belle as she is haunted by her imagined futures and sees the choices she can make.</desc>
+    <desc lang="en">Belle is troubled by her potential futures and the choices she can make.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/584dd4bc-86cd-3ee0-b880-3dbd87de17f9/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240906144000 +0100" stop="20240906151000 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">A special stylised episode following Belle as she is haunted by her imagined futures and sees the choices she can make.</desc>
+    <desc lang="en">Belle is troubled by her potential futures and the choices she can make.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5df3dad2-9377-329a-b2f1-7246f4e3783a/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240906151000 +0100" stop="20240906154000 +0100">
@@ -1235,12 +1230,12 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240906220000 +0100" stop="20240906223000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Leanne summons Nick, Paul encourages Billy to have fun with David, Carla provokes Joel in front of a client, and Tracy accuses Cassie of getting her claws into Steve.</desc>
+    <desc lang="en">Leanne calls for Nick to come to the Bistro; Paul pushes Billy to have fun with David; Carla provokes Joel in front of a client; Tracy confronts Cassie.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/72d0f4c8-0c22-37bc-a76c-db20843dbcf7/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240906223000 +0100" stop="20240906230000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Leanne summons Nick, Paul encourages Billy to have fun with David, Carla provokes Joel in front of a client, and Tracy accuses Cassie of getting her claws into Steve.</desc>
+    <desc lang="en">Leanne calls for Nick to come to the Bistro; Paul pushes Billy to have fun with David; Carla provokes Joel in front of a client; Tracy confronts Cassie.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d8cbbad9-c0ba-3abf-a884-f67842228b62/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240906230000 +0100" stop="20240906233500 +0100">
@@ -1311,12 +1306,12 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240907133500 +0100" stop="20240907140500 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">A special stylised episode following Belle as she is haunted by her imagined futures and sees the choices she can make.</desc>
+    <desc lang="en">Belle is troubled by her potential futures and the choices she can make.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/584dd4bc-86cd-3ee0-b880-3dbd87de17f9/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240907140500 +0100" stop="20240907143500 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">A special stylised episode following Belle as she is haunted by her imagined futures and sees the choices she can make.</desc>
+    <desc lang="en">Belle is troubled by her potential futures and the choices she can make.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5df3dad2-9377-329a-b2f1-7246f4e3783a/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240907143500 +0100" stop="20240907150500 +0100">
@@ -1411,32 +1406,32 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240908121500 +0100" stop="20240908124500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Dee-Dee digs for dirt on Joel with his former employer, a nervous Jack appears in court, Betsy puts Dylan in the friend-zone, and the quads have their first day at school.</desc>
+    <desc lang="en">Dee-Dee looks for dirt on Joel along with his former employer; an uneasy Jack appears in court; Betsy makes it clear that Dylan is in the friend zone.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2cdc0897-ca2f-3e3b-ac68-340792ef0cbe/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240908124500 +0100" stop="20240908131500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Dee-Dee digs for dirt on Joel with his former employer, a nervous Jack appears in court, Betsy puts Dylan in the friend-zone, and the quads have their first day at school.</desc>
+    <desc lang="en">Dee-Dee looks for dirt on Joel along with his former employer; an uneasy Jack appears in court; Betsy makes it clear that Dylan is in the friend zone.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/74fa1f5a-54c4-384f-9faf-016fb5fe9959/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240908131500 +0100" stop="20240908134500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Amy receives a frightening message, Lisa quizzes Kit about the evidence planted on Nathan, Summer comes to Paul's aid, and Leanne goes through the files on Rowan's laptop.</desc>
+    <desc lang="en">Amy receives a terrifying message; Lisa questions Kit about the evidence found on Nathan; Summer helps Paul; Leanne looks through the files on Rowan's laptop.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/367b525f-0077-33af-be64-a129f142e8db/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240908134500 +0100" stop="20240908141500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Amy receives a frightening message, Lisa quizzes Kit about the evidence planted on Nathan, Summer comes to Paul's aid, and Leanne goes through the files on Rowan's laptop.</desc>
+    <desc lang="en">Amy receives a terrifying message; Lisa questions Kit about the evidence found on Nathan; Summer helps Paul; Leanne looks through the files on Rowan's laptop.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/afe51414-fe0f-39dc-9717-cb253c583d16/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240908141500 +0100" stop="20240908144500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Leanne summons Nick, Paul encourages Billy to have fun with David, Carla provokes Joel in front of a client, and Tracy accuses Cassie of getting her claws into Steve.</desc>
+    <desc lang="en">Leanne calls for Nick to come to the Bistro; Paul pushes Billy to have fun with David; Carla provokes Joel in front of a client; Tracy confronts Cassie.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/72d0f4c8-0c22-37bc-a76c-db20843dbcf7/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240908144500 +0100" stop="20240908151500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Leanne summons Nick, Paul encourages Billy to have fun with David, Carla provokes Joel in front of a client, and Tracy accuses Cassie of getting her claws into Steve.</desc>
+    <desc lang="en">Leanne calls for Nick to come to the Bistro; Paul pushes Billy to have fun with David; Carla provokes Joel in front of a client; Tracy confronts Cassie.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d8cbbad9-c0ba-3abf-a884-f67842228b62/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240908151500 +0100" stop="20240908171500 +0100">
@@ -1558,17 +1553,17 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240909141000 +0100" stop="20240909144000 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">A special stylised episode following Belle as she is haunted by her imagined futures and sees the choices she can make.</desc>
+    <desc lang="en">Belle is troubled by her potential futures and the choices she can make.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2afda58f-7f0b-3bfc-b9aa-333da674da8b/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240909144000 +0100" stop="20240909151000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Leanne summons Nick, Paul encourages Billy to have fun with David, Carla provokes Joel in front of a client, and Tracy accuses Cassie of getting her claws into Steve.</desc>
+    <desc lang="en">Leanne calls for Nick to come to the Bistro; Paul pushes Billy to have fun with David; Carla provokes Joel in front of a client; Tracy confronts Cassie.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/72d0f4c8-0c22-37bc-a76c-db20843dbcf7/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240909151000 +0100" stop="20240909154000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Leanne summons Nick, Paul encourages Billy to have fun with David, Carla provokes Joel in front of a client, and Tracy accuses Cassie of getting her claws into Steve.</desc>
+    <desc lang="en">Leanne calls for Nick to come to the Bistro; Paul pushes Billy to have fun with David; Carla provokes Joel in front of a client; Tracy confronts Cassie.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d8cbbad9-c0ba-3abf-a884-f67842228b62/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240909154000 +0100" stop="20240909164000 +0100">
@@ -1603,12 +1598,12 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240909221500 +0100" stop="20240909224500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Billy faces a race against time to say a final goodbye to Paul, Nick reports Rowan to the police, and Leanne holds the key to recovering Amy's money.</desc>
+    <desc lang="en">Billy feels time slipping away as he rushes to say goodbye to Paul; Nick reports Rowan to the police; Leanne has the answer to recovering Amy's money.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e701df0d-400c-3102-bd44-400b8b1c456f/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240909224500 +0100" stop="20240909231500 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Billy faces a race against time to say a final goodbye to Paul, Nick reports Rowan to the police, and Leanne holds the key to recovering Amy's money.</desc>
+    <desc lang="en">Billy feels time slipping away as he rushes to say goodbye to Paul; Nick reports Rowan to the police; Leanne has the answer to recovering Amy's money.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8f10de40-6b62-3e5b-8763-631a2944edb8/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240909231500 +0100" stop="20240909235000 +0100">
@@ -1693,12 +1688,12 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240910144000 +0100" stop="20240910151000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Billy faces a race against time to say a final goodbye to Paul, Nick reports Rowan to the police, and Leanne holds the key to recovering Amy's money.</desc>
+    <desc lang="en">Billy feels time slipping away as he rushes to say goodbye to Paul; Nick reports Rowan to the police; Leanne has the answer to recovering Amy's money.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e701df0d-400c-3102-bd44-400b8b1c456f/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240910151000 +0100" stop="20240910154000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Billy faces a race against time to say a final goodbye to Paul, Nick reports Rowan to the police, and Leanne holds the key to recovering Amy's money.</desc>
+    <desc lang="en">Billy feels time slipping away as he rushes to say goodbye to Paul; Nick reports Rowan to the police; Leanne has the answer to recovering Amy's money.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8f10de40-6b62-3e5b-8763-631a2944edb8/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240910154000 +0100" stop="20240910164000 +0100">
@@ -1966,12 +1961,12 @@
   </programme>
   <programme channel="VirginThree.ie" start="20240912220000 +0100" stop="20240912223000 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">Fire engines arrive at the barn. The bystanders are horrified watching the barn burn. Matty struggles to process what's happening.</desc>
+    <desc lang="en">Firefighters arrive at the scene of the burning barn while bystanders watch in horror; Matty finds it difficult to process what is happening.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/070881c6-757f-3f49-849a-f0509ec39e29/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240912223000 +0100" stop="20240912230000 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">Fire engines arrive at the barn. The bystanders are horrified watching the barn burn. Matty struggles to process what's happening.</desc>
+    <desc lang="en">Firefighters arrive at the scene of the burning barn while bystanders watch in horror; Matty finds it difficult to process what is happening.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/770a768e-b0f2-3776-b951-02c95426ba32/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240912230000 +0100" stop="20240913000000 +0100">
@@ -1985,19 +1980,6 @@
     <desc lang="en">DCI Jane Tennison takes up a new post at the Soho Vice Squad in award-winning writer Lynda La Plante's third series. S3 Ep1</desc>
     <episode-num system="xmltv_ns">02.00</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/031b565f-8937-3a97-adef-aedfc217e35f/2817"/>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240905000000 +0100" stop="20240905023000 +0100">
-    <title lang="en">This Morning</title>
-    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240905023000 +0100" stop="20240905070500 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240905070500 +0100" stop="20240905080000 +0100">
-    <title lang="en">The Tonight Show</title>
-    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues. S8 Ep118</desc>
-    <episode-num system="xmltv_ns">07.117</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240905080000 +0100" stop="20240905090000 +0100">
     <title lang="en">The Good Witch</title>
@@ -2080,6 +2062,20 @@
   <programme channel="VirginFour.ie" start="20240906000000 +0100" stop="20240906023000 +0100">
     <title lang="en">This Morning</title>
     <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240906023000 +0100" stop="20240906070500 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240906070500 +0100" stop="20240906080000 +0100">
+    <title lang="en">The Tonight Show</title>
+    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues. S8 Ep119</desc>
+    <episode-num system="xmltv_ns">07.118</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240906080000 +0100" stop="20240906090000 +0100">
+    <title lang="en">The Good Witch</title>
+    <desc lang="en">The girls are frustrated by more unanswered questions after they learn the origins of the pouches of soil, while Middleton flashes back to the 1950s. S7 Ep2</desc>
+    <episode-num system="xmltv_ns">06.01</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240906000000 +0100" stop="20240906023000 +0100">
     <title lang="en">This Morning</title>
@@ -2626,11 +2622,15 @@
   </programme>
   <programme channel="VirginFour.ie" start="20240912000000 +0100" stop="20240912023000 +0100">
     <title lang="en">This Morning</title>
-    <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks and more.</desc>
+    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
   </programme>
   <programme channel="VirginFour.ie" start="20240912000000 +0100" stop="20240912023000 +0100">
     <title lang="en">This Morning</title>
-    <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks and more.</desc>
+    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240912023000 +0100" stop="20240912070000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
   </programme>
   <programme channel="VirginFour.ie" start="20240912070000 +0100" stop="20240912080000 +0100">
     <title lang="en">The Tonight Show</title>
@@ -2717,56 +2717,6 @@
   <programme channel="VirginFour.ie" start="20240913000000 +0100" stop="20240913023000 +0100">
     <title lang="en">This Morning</title>
     <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905000000 +0100" stop="20240905010000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/519b3602-c8a7-34c4-9f7a-c9267717d9c4/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905010000 +0100" stop="20240905020000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4b151dc8-0d28-354a-b7d1-2e3a33d6f708/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905020000 +0100" stop="20240905030000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4e59adde-7fbc-3035-8d5e-ae7ca0fc0959/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905030000 +0100" stop="20240905040000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2ccd0b0a-d9e9-391d-aa52-70bd810e5d8b/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905040000 +0100" stop="20240905050000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/581c7a60-c9ee-324c-94df-72742dda73d1/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905050000 +0100" stop="20240905060000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ca056a40-156c-3146-8509-2a615f6b3586/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905060000 +0100" stop="20240905063000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/70fd7803-f7c9-3be0-9600-88f4c6383b79/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905063000 +0100" stop="20240905070000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b9d1862a-8df8-360a-a364-3ef154fbbe6d/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905070000 +0100" stop="20240905073000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/23049cee-b714-3c24-a3bc-35612b23bbe8/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240905073000 +0100" stop="20240905080000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2318c3b6-fa18-3155-9392-7d50202e1fc3/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240905080000 +0100" stop="20240905083000 +0100">
     <title lang="en">Breakfast with Kay Burley</title>
@@ -2932,6 +2882,56 @@
     <title lang="en">Sky News</title>
     <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d97c5070-8e68-365b-b9ab-ff2059bee241/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906010000 +0100" stop="20240906020000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2aed0121-541d-3bcc-a4eb-732248041aaa/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906020000 +0100" stop="20240906030000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/966ea5c5-c603-3b2f-af0c-b9adf1c5a6f3/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906030000 +0100" stop="20240906040000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9f5743ff-7dfd-33d9-a4a6-257a62b21b75/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906040000 +0100" stop="20240906050000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/0c81f5ac-5a39-3c18-8949-d2ebb513ea8a/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906050000 +0100" stop="20240906060000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/55f4a678-5378-3bcc-9fbb-5e578ca5c0d9/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906060000 +0100" stop="20240906063000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/400e4541-b35d-3d55-bed7-071b3723dbe6/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906063000 +0100" stop="20240906070000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a46407ab-3fb1-3bc4-9c2a-839935709713/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906070000 +0100" stop="20240906073000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/17283369-f26f-34a8-a84d-5ef7e93537e2/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906073000 +0100" stop="20240906080000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3d4eefba-4081-3b4f-8416-13eda7429b73/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240906080000 +0100" stop="20240906083000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f3a14bde-dd6e-3d3f-9842-179b373678aa/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240906010000 +0100" stop="20240906020000 +0100">
     <title lang="en">Sky News</title>
