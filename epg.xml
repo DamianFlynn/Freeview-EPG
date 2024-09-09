@@ -35,11 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20240908231500 +0100" stop="20240909070000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest International and European news.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2cabca65-b391-3e62-811d-2eecd528d8c9/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20240909070000 +0100" stop="20240909090000 +0100">
     <title lang="en">Morning Ireland</title>
     <desc lang="en">Morning news programme.</desc>
@@ -164,6 +159,11 @@
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/114c5f73-c0c3-3da1-8ab1-bf1fb57b2bd7/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20240910070000 +0100" stop="20240910090000 +0100">
+    <title lang="en">Morning Ireland</title>
+    <desc lang="en">Morning news programme.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d4ef869f-9ef8-3344-b702-1f4a3105125c/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20240910000000 +0100" stop="20240910070000 +0100">
     <title lang="en">EuroNews</title>
@@ -1030,34 +1030,6 @@
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/744ecf60-e144-3701-8b23-adbd21c53878/2804"/>
   </programme>
-  <programme channel="VirginThree.ie" start="20240908232000 +0100" stop="20240909003500 +0100">
-    <title lang="en">Poldark</title>
-    <desc lang="en">In parliament, Ross achieves some success on behalf of his constituents. However, back in Cornwall there is famine and sickness. S4 Ep5</desc>
-    <episode-num system="xmltv_ns">03.04</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1f34cfe7-f451-35e5-906a-a2ad2da882fd/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20240909003500 +0100" stop="20240909012500 +0100">
-    <title lang="en">Prime Suspect USA</title>
-    <desc lang="en">Jane discovers that a jailed hit man may be responsible for a drive-by at a local store; Sweeney orders extra security when a hit is ordered on one of his own. S1 Ep13</desc>
-    <episode-num system="xmltv_ns">00.12</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4fe8be86-a9d3-423a-97fe-440596bd8822/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20240909012500 +0100" stop="20240909020900 +0100">
-    <title lang="en">Born to Kill</title>
-    <desc lang="en">Documentary series examining serial killers. Charles Albright is suspected to have brutally murdered three women in Dallas's red light district in the 1990s. S7 Ep4</desc>
-    <episode-num system="xmltv_ns">06.03</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d43e8d09-00ed-41ee-a355-95b7ead4c26b/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20240909020900 +0100" stop="20240909071000 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginThree.ie" start="20240909071000 +0100" stop="20240909080500 +0100">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">PC Walker is tempted to bend the rules again when an old friend turns up with a proposition. But how much longer will Sergeant Miller put up with his rebellious streak? S14 Ep17</desc>
-    <episode-num system="xmltv_ns">13.16</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/393f3262-ab36-46ba-a88d-6f64843143fb/2817"/>
-  </programme>
   <programme channel="VirginThree.ie" start="20240909080500 +0100" stop="20240909091000 +0100">
     <title lang="en">The Adventures of Sherlock Holmes</title>
     <desc lang="en">A young woman whose sister died mysteriously approaches Holmes for help after her cruel stepfather moves her into her late sister's room. S1 Ep6</desc>
@@ -1165,6 +1137,22 @@
     <desc lang="en">The story of Tasha, a young woman who feels she is living the dream apart from one thing. Her husband's ex-wife won't leave them alone and is intent on staying in the picture. S1 Ep1</desc>
     <episode-num system="xmltv_ns">00.00</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/543f40b1-d08c-428b-861a-38b4fb3f57aa/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20240910005500 +0100" stop="20240910024800 +0100">
+    <title lang="en">Prime Suspect</title>
+    <desc lang="en">The investigation's main suspect is released from police custody, but Tennison's further search leads her to an unexpected discovery. S1 Ep2</desc>
+    <episode-num system="xmltv_ns">00.01</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1f87b27d-b124-3b9a-93d7-6e78e2cc8fd7/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20240910024800 +0100" stop="20240910072000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginThree.ie" start="20240910072000 +0100" stop="20240910081500 +0100">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">Bellamy tries to win Miller's approval by going it alone, and Vernon's prospects look bleak when the tax-man comes to town. S14 Ep18</desc>
+    <episode-num system="xmltv_ns">13.17</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3fcce74e-4365-4cb0-a9d6-cf58d8007c4b/2817"/>
   </programme>
   <programme channel="VirginThree.ie" start="20240910005500 +0100" stop="20240910024800 +0100">
     <title lang="en">Prime Suspect</title>
@@ -1964,29 +1952,6 @@
     <desc lang="en">A carousing ladies' man and brilliant psychologist with personal problems solves challenging crimes that police can't seem to crack.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4cb9b217-e690-304a-ac7a-f4418e38c46b/2817"/>
   </programme>
-  <programme channel="VirginFour.ie" start="20240908235500 +0100" stop="20240909005000 +0100">
-    <title lang="en">Million Dollar Listing: LA</title>
-    <desc lang="en">Tracy heads to New York to be mentored by Fredrik Eklund. Josh Altman tackles the beast of Bradbury Estates, Bliss Canyon. S10 Ep10</desc>
-    <episode-num system="xmltv_ns">09.09</episode-num>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240909005000 +0100" stop="20240909013500 +0100">
-    <title lang="en">Million Dollar Listing: LA</title>
-    <desc lang="en">Flagg and Bobby decide to work together to develop a co-list for the first time, but he later becomes unexpectedly emotional during  a rehearsal dinner. S10 Ep11</desc>
-    <episode-num system="xmltv_ns">09.10</episode-num>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240909013500 +0100" stop="20240909023000 +0100">
-    <title lang="en">The Real Story of...</title>
-    <desc lang="en">The real story behind the movie "Munich," which detailed Israel's response to the killing of 11 of their athletes at the 1972 Munich Olympics. S1 Ep6</desc>
-    <episode-num system="xmltv_ns">00.05</episode-num>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240909023000 +0100" stop="20240909070500 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20240909070500 +0100" stop="20240909080000 +0100">
-    <title lang="en">Sport Stories</title>
-    <desc lang="en">Former soccer player Damien Delaney discusses his journey after entering the Premier League at only 19 years of age, but it it took him 11 years to get back to the top.</desc>
-  </programme>
   <programme channel="VirginFour.ie" start="20240909080000 +0100" stop="20240909090000 +0100">
     <title lang="en">The Good Witch</title>
     <desc lang="en">Stephanie, Cassie, and Abigail decide to help Martha throw Claire a baby shower, but it makes Cassie recall memories of her own baby shower. S7 Ep3</desc>
@@ -2067,6 +2032,19 @@
   <programme channel="VirginFour.ie" start="20240910000000 +0100" stop="20240910023000 +0100">
     <title lang="en">This Morning</title>
     <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240910023000 +0100" stop="20240910071000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240910071000 +0100" stop="20240910080000 +0100">
+    <title lang="en">The Tonight Show</title>
+    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20240910080000 +0100" stop="20240910090000 +0100">
+    <title lang="en">The Good Witch</title>
+    <desc lang="en">Sam becomes excited to perform surgery on a famous basketball player; Joy discovers something and attempts to revive the Middleton Exchange tradition. S7 Ep4</desc>
+    <episode-num system="xmltv_ns">06.03</episode-num>
   </programme>
   <programme channel="VirginFour.ie" start="20240910000000 +0100" stop="20240910023000 +0100">
     <title lang="en">This Morning</title>
@@ -2663,56 +2641,6 @@
     <title lang="en">This Morning</title>
     <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks and more.</desc>
   </programme>
-  <programme channel="SkyNews.ie" start="20240909000000 +0100" stop="20240909010000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5275b863-f0be-3c2b-aa3d-5de2b3418d5a/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909010000 +0100" stop="20240909020000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/12a12253-93ec-397a-b716-749935b67789/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909020000 +0100" stop="20240909030000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cb1458d1-9975-3321-a476-037d12696c5b/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909030000 +0100" stop="20240909040000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8babfb87-0938-3d0e-be33-ab20a6bea39d/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909040000 +0100" stop="20240909050000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b8250c31-2fb9-3528-92c8-78f88f21d9bd/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909050000 +0100" stop="20240909060000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3759c8c1-0173-3438-8630-1e967ba7775e/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909060000 +0100" stop="20240909063000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3a6eddaf-5efe-3ebb-9d95-1585752fb182/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909063000 +0100" stop="20240909070000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1f669254-6bcc-387b-886c-18b17fa097dc/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909070000 +0100" stop="20240909073000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e804debc-e88f-3893-bd3b-89439efe7782/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20240909073000 +0100" stop="20240909080000 +0100">
-    <title lang="en">Breakfast with Kay Burley</title>
-    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8f0dedee-84f8-3035-9aff-b4c9ece775f0/4054"/>
-  </programme>
   <programme channel="SkyNews.ie" start="20240909080000 +0100" stop="20240909083000 +0100">
     <title lang="en">Breakfast with Kay Burley</title>
     <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
@@ -2877,6 +2805,56 @@
     <title lang="en">Sky News</title>
     <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d85bbbc7-9ede-32de-9496-dba371c9d89c/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910010000 +0100" stop="20240910020000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5a1a015e-ae68-3d9f-817b-a2edf68a8633/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910020000 +0100" stop="20240910030000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/df819781-644e-3010-8617-6b6c0ed6b65d/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910030000 +0100" stop="20240910040000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c1295942-849d-30a0-bcc7-077cb2fdb0eb/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910040000 +0100" stop="20240910050000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/859ebaf3-df02-3443-ab42-251d4e4e007c/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910050000 +0100" stop="20240910060000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b25ea6cb-0b0b-3114-b708-789688bf5634/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910060000 +0100" stop="20240910063000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5165c282-fd87-39f7-bf8b-bb840c3f7cc6/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910063000 +0100" stop="20240910070000 +0100">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/00b8c68a-3e55-34b9-a476-4e29fcaefe27/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910070000 +0100" stop="20240910073000 +0100">
+    <title lang="en">Breakfast with Kay Burley</title>
+    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/002ee947-dc98-3404-8985-dbff113d3bd1/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910073000 +0100" stop="20240910080000 +0100">
+    <title lang="en">Breakfast with Kay Burley</title>
+    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5edcc276-c8a2-3749-99ad-f8d3573a28ca/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20240910080000 +0100" stop="20240910083000 +0100">
+    <title lang="en">Breakfast with Kay Burley</title>
+    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/35d9d881-01e3-3be7-9fff-2f9e3f3dd7a1/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20240910010000 +0100" stop="20240910020000 +0100">
     <title lang="en">Sky News</title>
