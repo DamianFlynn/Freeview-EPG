@@ -35,16 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20241105232000 +0000" stop="20241106033000 +0000">
-    <title lang="en">US Presidential Election Special</title>
-    <desc lang="en">Live results coverage of the 2024 US presidential election, presented by Miriam O'Callaghan in Washington and David McCullagh in Dublin</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c1740d39-e086-331e-8865-8681579e7d54/2804"/>
-  </programme>
-  <programme channel="RTENews.ie" start="20241106033000 +0000" stop="20241106070000 +0000">
-    <title lang="en">CBS News: US Presidential Election</title>
-    <desc lang="en">Live results coverage from CBS News of the 2024 US presidential election, as the race between Kamala Harris and Donald Trump to succeed Joe Biden as President heads to a climax</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b795e84a-ddd8-3936-b85c-a9ea1af67813/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20241106070000 +0000" stop="20241106090000 +0000">
     <title lang="en">Morning Ireland</title>
     <desc lang="en">Morning news programme.</desc>
@@ -169,6 +159,16 @@
     <title lang="en">Nuacht RTÉ</title>
     <desc lang="en">Príomhscéalta an lae ó Nuacht RTÉ.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d02a3aab-c5fc-3942-bbe3-98daff75dcd5/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20241106232500 +0000" stop="20241107070000 +0000">
+    <title lang="en">EuroNews</title>
+    <desc lang="en">The latest International and European news.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fe191ff6-766c-31f9-8466-ef2e050e1f63/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20241107070000 +0000" stop="20241107090000 +0000">
+    <title lang="en">Morning Ireland</title>
+    <desc lang="en">Morning news programme.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b4e291dd-37dd-3375-8e44-2fbb0b8593d7/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20241106232500 +0000" stop="20241107070000 +0000">
     <title lang="en">EuroNews</title>
@@ -1080,29 +1080,6 @@
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/580e4745-71ef-3940-b62a-2d2323d1689b/2804"/>
   </programme>
-  <programme channel="VirginThree.ie" start="20241105230000 +0000" stop="20241105233000 +0000">
-    <title lang="en">Emmerdale</title>
-    <desc lang="en">Charity makes an admission to Mack; Ross and Billy are trapped; the village bonfire is tense.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d00e9887-0c9c-3c10-bfec-cbb69e2ceb03/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20241105233000 +0000" stop="20241106003500 +0000">
-    <title lang="en">Vanity Fair</title>
-    <desc lang="en">Becky works out how to live well on nothing a year, but flies too high as she joins the dizzy ranks of lords, ladies and kings. S1 Ep6</desc>
-    <episode-num system="xmltv_ns">00.05</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/de756a69-1872-4b5f-bf50-7b1d62d01b55/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20241106003500 +0000" stop="20241106013500 +0000">
-    <title lang="en">Cilla</title>
-    <desc lang="en">Reunited with Bobby, Cilla finds her confidence and impresses the crowds with her incredible voice; Brian Epstein gives Cilla another chance. S1 Ep2</desc>
-    <episode-num system="xmltv_ns">00.01</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a95055d7-6798-408d-8aea-346b4e44920d/2817"/>
-  </programme>
-  <programme channel="VirginThree.ie" start="20241106013500 +0000" stop="20241106022500 +0000">
-    <title lang="en">John and Lisa's Weekend Kitchen</title>
-    <desc lang="en">John and Lisa make leek and potato soup with cheese toastie fingers, vegetarian thatched cottage pies, sausage orzo with pangritata and mini fruit crumbles. S5 Ep7</desc>
-    <episode-num system="xmltv_ns">04.06</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4b2098da-6b59-498b-842c-bc670aa74a80/2817"/>
-  </programme>
   <programme channel="VirginThree.ie" start="20241106022500 +0000" stop="20241106074500 +0000">
     <title lang="en">Off Air</title>
     <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
@@ -1207,6 +1184,31 @@
     <desc lang="en">A panel of guests discuss and dissect the top moments and events from the show. S2 Ep28</desc>
     <episode-num system="xmltv_ns">01.27</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/77bb43cf-3331-387c-856a-53747a366add/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20241107000000 +0000" stop="20241107003000 +0000">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Billy chooses a bad moment to confess his sins; Bethany is humiliated outside of the flat; Dee-Dee stays away from Lauren; Tim catches Mason red handed.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b579f891-704b-3ed4-bf89-6dae8fc9a59e/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20241107003000 +0000" stop="20241107010000 +0000">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Billy chooses a bad moment to confess his sins; Bethany is humiliated outside of the flat; Dee-Dee stays away from Lauren; Tim catches Mason red handed.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fcbc606c-9a0f-363d-997e-773ac2c12983/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20241107010000 +0000" stop="20241107013000 +0000">
+    <title lang="en">Emmerdale</title>
+    <desc lang="en">Billy confesses; Dawn plans something; Bob attempts to make amends.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c17583c4-72da-3e1f-8a1a-c346491b7885/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20241107013000 +0000" stop="20241107022500 +0000">
+    <title lang="en">Cilla</title>
+    <desc lang="en">Cilla finds greater success with her new single, "You're My World," but the failed attempt to break into the American market signals worse to come. S1 Ep3</desc>
+    <episode-num system="xmltv_ns">00.02</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/98169232-d849-4451-95ea-a6ebb0121d15/2817"/>
+  </programme>
+  <programme channel="VirginThree.ie" start="20241107022500 +0000" stop="20241107074000 +0000">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
   </programme>
   <programme channel="VirginThree.ie" start="20241107000000 +0000" stop="20241107003000 +0000">
     <title lang="en">Coronation Street</title>
@@ -2088,19 +2090,6 @@
     <desc lang="en">To millions of people Diana, Princess of Wales was much more than a princess. Now the story of the love affair between people and princess is told by those who witnessed it.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5e9ac358-0d00-4205-8bf9-7244c9ca0e7f/2817"/>
   </programme>
-  <programme channel="VirginFour.ie" start="20241105231000 +0000" stop="20241106001500 +0000">
-    <title lang="en">The Chopping Block Australia</title>
-    <desc lang="en">Two restaurants are challenged to improve menus, decor and customer service. S1 Ep7</desc>
-    <episode-num system="xmltv_ns">00.06</episode-num>
-  </programme>
-  <programme channel="VirginFour.ie" start="20241106001500 +0000" stop="20241106024500 +0000">
-    <title lang="en">This Morning</title>
-    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
-  </programme>
-  <programme channel="VirginFour.ie" start="20241106024500 +0000" stop="20241106065000 +0000">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
   <programme channel="VirginFour.ie" start="20241106065000 +0000" stop="20241106075000 +0000">
     <title lang="en">The Tonight Show</title>
     <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues.</desc>
@@ -2177,6 +2166,18 @@
     <title lang="en">The Chopping Block Australia</title>
     <desc lang="en">Two restaurants are challenged to improve menus, decor and customer service. S1 Ep8</desc>
     <episode-num system="xmltv_ns">00.07</episode-num>
+  </programme>
+  <programme channel="VirginFour.ie" start="20241107001500 +0000" stop="20241107024500 +0000">
+    <title lang="en">This Morning</title>
+    <desc lang="en">Celebrity interviews, entertainment news, current affairs discussions, sports and more.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20241107024500 +0000" stop="20241107065000 +0000">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginFour.ie" start="20241107065000 +0000" stop="20241107075000 +0000">
+    <title lang="en">The Tonight Show</title>
+    <desc lang="en">Hosts share perspectives on top news with panelists who discuss key issues.</desc>
   </programme>
   <programme channel="VirginFour.ie" start="20241106231500 +0000" stop="20241107001500 +0000">
     <title lang="en">The Chopping Block Australia</title>
@@ -2278,6 +2279,7 @@
     <title lang="en">Moneyball</title>
     <desc lang="en">Contestants' cash earnings could all disappear with one final shot. S2 Ep5</desc>
     <episode-num system="xmltv_ns">01.04</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/23a723c0-226a-3572-91d1-740b770903a4/1316"/>
   </programme>
   <programme channel="VirginFour.ie" start="20241108084000 +0000" stop="20241108094000 +0000">
     <title lang="en">Loose Women</title>
@@ -2355,6 +2357,7 @@
     <title lang="en">Inspector Morse</title>
     <desc lang="en">The investigation of the murder of Yvonne Harrison in a quiet Cotswold village takes a positive turn when an anonymous letter gives new information. S12 Ep1</desc>
     <episode-num system="xmltv_ns">11.00</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2e36319a-02fa-4d2c-8eaa-4d1aab707f54/1316"/>
   </programme>
   <programme channel="VirginFour.ie" start="20241109085500 +0000" stop="20241109095500 +0000">
     <title lang="en">The Hotel Inspector</title>
@@ -2400,6 +2403,7 @@
     <title lang="en">The Adventures of Sherlock Holmes</title>
     <desc lang="en">What seems to be a harmless prank played on a man with red hair is revealed to be much more - an ingenious scheme planned by the sinister Professor Moriarty. S2 Ep5</desc>
     <episode-num system="xmltv_ns">01.04</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/73671e5b-0182-3390-aecf-71fefd9b0191/1316"/>
   </programme>
   <programme channel="VirginFour.ie" start="20241109200000 +0000" stop="20241109210000 +0000">
     <title lang="en">The Hotel Inspector</title>
@@ -2449,6 +2453,7 @@
     <title lang="en">Agatha Christie's Poirot</title>
     <desc lang="en">To Poirot's surprise, just hours after his appointment his dentist and a couple of patients are found murdered; Smith is asked to join other mediums in San Francisco. S4 Ep3</desc>
     <episode-num system="xmltv_ns">03.02</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/accf8be2-67a5-4481-b8bf-de5de9440641/1316"/>
   </programme>
   <programme channel="VirginFour.ie" start="20241110092500 +0000" stop="20241110110000 +0000">
     <title lang="en">Dancing on Ice</title>
@@ -2544,6 +2549,7 @@
     <title lang="en">Tipping Point</title>
     <desc lang="en">Ben Shephard hosts the quiz show in which four players take on an extraordinary machine. S10 Ep153</desc>
     <episode-num system="xmltv_ns">09.152</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ee25d50d-bf73-48aa-b791-51cf31e7c31d/1316"/>
   </programme>
   <programme channel="VirginFour.ie" start="20241111075000 +0000" stop="20241111085000 +0000">
     <title lang="en">Moneyball</title>
@@ -2580,8 +2586,9 @@
   </programme>
   <programme channel="VirginFour.ie" start="20241111145500 +0000" stop="20241111155500 +0000">
     <title lang="en">Long Lost Family</title>
-    <desc lang="en">A man who holds onto an old article about his evicted family and a mother who has not seen her only chilld since he was 10 days old hope to find their families. S11 Ep6</desc>
+    <desc lang="en">A man who holds onto an old article about his evicted family and a mother who has not seen her only child since he was 10 days old hope to find their families. S11 Ep6</desc>
     <episode-num system="xmltv_ns">10.05</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9cc3418a-2381-4946-b00e-38fdca197832/1316"/>
   </programme>
   <programme channel="VirginFour.ie" start="20241111155500 +0000" stop="20241111165500 +0000">
     <title lang="en">The Hotel Inspector</title>
@@ -2605,8 +2612,9 @@
   </programme>
   <programme channel="VirginFour.ie" start="20241111201000 +0000" stop="20241111211000 +0000">
     <title lang="en">The Hotel Inspector</title>
-    <desc lang="en">When faced with a pair of hotel owners on the brink of bankruptcy, Ruth suggests adding an all-day café to increase revenue in their struggling establishment. S3 Ep3</desc>
+    <desc lang="en">When faced with a pair of hotel owners on the brink of bankruptcy, Ruth suggests adding an all-day cafe to increase revenue in their struggling establishment. S3 Ep3</desc>
     <episode-num system="xmltv_ns">02.02</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d8c746a5-5d2c-44e6-a5db-970ee74a9093/1316"/>
   </programme>
   <programme channel="VirginFour.ie" start="20241111211000 +0000" stop="20241111221000 +0000">
     <title lang="en">Tipping Point</title>
@@ -2826,46 +2834,6 @@
     <episode-num system="xmltv_ns">00.02</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3f114dff-2bfa-43cc-959b-bd524012eb6b/1316"/>
   </programme>
-  <programme channel="SkyNews.ie" start="20241105230001 +0000" stop="20241106000001 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c9f70e4b-1612-3bff-87ac-bfd4492124c3/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20241106000001 +0000" stop="20241106010001 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/31c8ca29-b419-3802-993e-75c3f727768e/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20241106010001 +0000" stop="20241106020001 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/873b0369-d1b9-3c9e-944d-5c742e25787c/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20241106020001 +0000" stop="20241106030001 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/bce3479c-b8bc-3e24-899a-720583c86885/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20241106030001 +0000" stop="20241106040001 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/96b3b8a5-32ec-349c-aee2-4a9424898d24/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20241106040001 +0000" stop="20241106050001 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/dc41360b-87ae-3e67-bd0b-c825390fde75/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20241106050001 +0000" stop="20241106060000 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a7fe0e38-5009-3c78-8381-c0ab23662853/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20241106060000 +0000" stop="20241106070000 +0000">
-    <title lang="en">America Votes: Election Night Live</title>
-    <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/bfe00120-f8d0-327f-b61b-75f71ff8b713/4054"/>
-  </programme>
   <programme channel="SkyNews.ie" start="20241106070000 +0000" stop="20241106080000 +0000">
     <title lang="en">America Votes: Election Night Live</title>
     <desc lang="en">Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
@@ -3015,6 +2983,56 @@
     <title lang="en">News &amp; Press Preview</title>
     <desc lang="en">The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b935e502-ce12-365c-8e7d-8de4ccb211e7/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241106233000 +0000" stop="20241107000000 +0000">
+    <title lang="en">Press Preview</title>
+    <desc lang="en">Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/84770e8d-20b7-3715-a67c-d2041baa8833/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107000000 +0000" stop="20241107010000 +0000">
+    <title lang="en">Sky News</title>
+    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4b568fd5-9c30-308e-aaf8-0c9d543fb252/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107010000 +0000" stop="20241107020000 +0000">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/0cf748e2-d9d3-35cb-a70b-04feab19aa94/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107020000 +0000" stop="20241107030000 +0000">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/86c555cd-1524-3e08-afd9-fbf3cef48e36/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107030000 +0000" stop="20241107040000 +0000">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a76a623b-c9d5-3179-8280-4298ee47cffe/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107040000 +0000" stop="20241107050000 +0000">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5ef45157-5b42-32c3-8e42-11c3e59c77a0/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107050000 +0000" stop="20241107060000 +0000">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d3a94cc5-f95c-30b2-87b7-fb4858109915/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107060000 +0000" stop="20241107063000 +0000">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/027fa897-b9ae-34b3-a0ac-552af4afdab4/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107063000 +0000" stop="20241107070000 +0000">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f7e55b6b-2f2e-3967-b377-9a26f6a6d96e/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20241107070000 +0000" stop="20241107073000 +0000">
+    <title lang="en">Breakfast with Kay Burley</title>
+    <desc lang="en">All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a3c6b6fb-7177-3fb6-999e-4ef643f1b51c/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20241107000000 +0000" stop="20241107010000 +0000">
     <title lang="en">Sky News</title>
