@@ -35,11 +35,6 @@
     <display-name lang="en">Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png"></icon>
   </channel>
-  <programme channel="RTENews.ie" start="20250919000000 +0100" stop="20250919070000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest International and European news.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a95ec4d6-7a98-4f65-8597-66e696f46ff4/2804"/>
-  </programme>
   <programme channel="RTENews.ie" start="20250919070000 +0100" stop="20250919090000 +0100">
     <title lang="en">Morning Ireland</title>
     <desc lang="en">Morning news programme.</desc>
@@ -164,6 +159,16 @@
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/01ccb79f-0dd6-40aa-b20a-4373e7610103/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20250920060000 +0100" stop="20250920080000 +0100">
+    <title lang="en">EuroNews</title>
+    <desc lang="en">European and international headlines live via satellite.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fe8ea14d-9aeb-41d5-bb0c-0fcea26fabda/2804"/>
+  </programme>
+  <programme channel="RTENews.ie" start="20250920080000 +0100" stop="20250920090000 +0100">
+    <title lang="en">Current Affairs Round Up</title>
+    <desc lang="en">News and Current Affairs highlights from the past week.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b80ddabf-ecfe-4870-a0fb-235cb9bb1aff/2804"/>
   </programme>
   <programme channel="RTENews.ie" start="20250919232500 +0100" stop="20250920060000 +0100">
     <title lang="en">EuroNews</title>
@@ -1090,40 +1095,6 @@
     <desc lang="en">The latest International and European news.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/6ec12ac7-67d6-402f-a98e-b184f534d186/2804"/>
   </programme>
-  <programme channel="RTEOne.ie" start="20250919001500 +0100" stop="20250919011500 +0100">
-    <title lang="en">Van der Valk</title>
-    <desc lang="en">Secrets In Amsterdam Part 2: The team moves in on billionaire Freddie Klink, who may be trying to stop a medical breakthrough from becoming public (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ba901fc7-e7f5-4b35-93b3-6dc5b61fc5ae/2816"/>
-  </programme>
-  <programme channel="RTEOne.ie" start="20250919011500 +0100" stop="20250919015500 +0100">
-    <title lang="en">Prime Time</title>
-    <desc lang="en">An in-depth analysis of current issues and topical reports. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d3e976aa-f501-4ab2-a5f6-fff32e7312a7/2816"/>
-  </programme>
-  <programme channel="RTEOne.ie" start="20250919015500 +0100" stop="20250919021000 +0100">
-    <title lang="en">Telly Bingo</title>
-    <desc lang="en">National lottery game show. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b492e030-081a-4c93-b9f1-cb801abb8723/2816"/>
-  </programme>
-  <programme channel="RTEOne.ie" start="20250919021000 +0100" stop="20250919025500 +0100">
-    <title lang="en">The Kelly Clarkson Show</title>
-    <desc lang="en">Kelly is joined by country singer Keith Urban. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2879092f-34c6-40dc-b01c-ac453c8b4d9a/2816"/>
-  </programme>
-  <programme channel="RTEOne.ie" start="20250919025500 +0100" stop="20250919060000 +0100">
-    <title lang="en">Euronews</title>
-    <desc lang="en">The latest international news headlines. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/95ca550a-d276-4367-b46c-2c1840466c91/2816"/>
-  </programme>
-  <programme channel="RTEOne.ie" start="20250919060000 +0100" stop="20250919064500 +0100">
-    <title lang="en">Euronews</title>
-    <desc lang="en">The latest international news headlines. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/79948402-b47c-4a0d-a13f-547412e37daa/2816"/>
-  </programme>
-  <programme channel="RTEOne.ie" start="20250919064500 +0100" stop="20250919072000 +0100">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Buying goods from the comfort of home. (HD)</desc>
-  </programme>
   <programme channel="RTEOne.ie" start="20250919072000 +0100" stop="20250919082000 +0100">
     <title lang="en">Casualty</title>
     <desc lang="en">On her first day back at Holby, Faith struggles with new restrictions. Rash steps up, but is he ready? Stevie jumps to conclusions, causing her to doubt herself in her new role. (HD)</desc>
@@ -1248,6 +1219,49 @@
     <title lang="en">The Graduate</title>
     <desc lang="en">A naive college graduate is seduced by a middle-aged woman, only to fall in love with her daughter. (HD)</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c8fe11d7-082b-46e3-87d2-9e08232f8508/2816"/>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920011500 +0100" stop="20250920014500 +0100">
+    <title lang="en">Nationwide</title>
+    <desc lang="en">On this Culture Night, Nationwide celebrates theatre, music, and all kinds of cultural gatherings. Presented by Anne Cassin. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4e86f7a0-503e-4714-bdd1-c67a3d018d67/2816"/>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920014500 +0100" stop="20250920020000 +0100">
+    <title lang="en">Telly Bingo</title>
+    <desc lang="en">National lottery game show. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4b68e121-8d7a-4a08-ac2e-6defdd71d374/2816"/>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920020000 +0100" stop="20250920024500 +0100">
+    <title lang="en">The Kelly Clarkson Show</title>
+    <desc lang="en">Kelly is joined by Kate Winslet. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/621d1ea1-f835-42ac-939c-3f28a811cd07/2816"/>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920024500 +0100" stop="20250920060000 +0100">
+    <title lang="en">Euronews</title>
+    <desc lang="en">The latest international news headlines. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/41b87a41-25fa-42d0-86c5-6aa98ce31a11/2816"/>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920060000 +0100" stop="20250920060500 +0100">
+    <title lang="en">Euronews</title>
+    <desc lang="en">The latest international news headlines. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8fe574b0-54d1-45dc-874d-97be14734356/2816"/>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920060500 +0100" stop="20250920063500 +0100">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Buying goods from the comfort of home. (HD)</desc>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920063500 +0100" stop="20250920071000 +0100">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Buying goods from the comfort of home. (HD)</desc>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920071000 +0100" stop="20250920074000 +0100">
+    <title lang="en">Nationwide</title>
+    <desc lang="en">Nationwide makes its annual visit to the National Ploughing Championships. Presenters Anne Cassin and Bláthnaid Ní Chofaigh (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/87315de1-d4d6-42ac-aa06-bb068e93f402/2816"/>
+  </programme>
+  <programme channel="RTEOne.ie" start="20250920074000 +0100" stop="20250920094000 +0100">
+    <title lang="en">Fair City Omnibus</title>
+    <desc lang="en">Catch up on the latest drama from Carrigstown. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cf08ca6a-70e5-48c5-b154-2d9ca26c52cb/2816"/>
   </programme>
   <programme channel="RTEOne.ie" start="20250919231500 +0100" stop="20250920011500 +0100">
     <title lang="en">The Graduate</title>
@@ -2354,31 +2368,6 @@
     <desc lang="en">In the final episode marking 21 years of the Luas, Nationwide turns its focus to the Red Line, the east-west route that links the Docklands with the suburbs of Tallaght and Saggart (HD)</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/0c268e2a-3fc0-413f-aef5-ac797fc54f4d/2816"/>
   </programme>
-  <programme channel="RTE2.ie" start="20250919001000 +0100" stop="20250919012000 +0100">
-    <title lang="en">Line of Duty</title>
-    <desc lang="en">Lindsay fights for her life as troubling details emerge of a vicious conspiracy involving corrupt police officers. Meanwhile, Hastings is under pressure. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/aab8ff86-a507-46b4-ab46-6f5427e8be16/1270"/>
-  </programme>
-  <programme channel="RTE2.ie" start="20250919012000 +0100" stop="20250919020000 +0100">
-    <title lang="en">Alma's Not Normal</title>
-    <desc lang="en">Sticking With You: Things between Lin and Joan are not going well, and the news that Alma will be leaving for a six-month tour looks like it might push her mum over the edge. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4f29e287-662b-4fc1-8c96-3c181db3cbae/1270"/>
-  </programme>
-  <programme channel="RTE2.ie" start="20250919020000 +0100" stop="20250919060000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest international news headlines. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/89ffd531-1578-4472-babb-85b7707e77d0/1270"/>
-  </programme>
-  <programme channel="RTE2.ie" start="20250919060000 +0100" stop="20250919075000 +0100">
-    <title lang="en">EuroNews</title>
-    <desc lang="en">The latest international news headlines. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/df6b4139-ca98-4dc3-96b6-70261d44f2bf/1270"/>
-  </programme>
-  <programme channel="RTE2.ie" start="20250919075000 +0100" stop="20250919080000 +0100">
-    <title lang="en">news2day</title>
-    <desc lang="en">Domestic and international news items of interest to younger viewers. (HD)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9478b837-65ba-49d9-bb5b-3a84874f343a/1270"/>
-  </programme>
   <programme channel="RTE2.ie" start="20250919080000 +0100" stop="20250919083000 +0100">
     <title lang="en">Nova Jones</title>
     <desc lang="en">Stop Listening to Nova - When her songs become a bad influence on fans, Nova must do the unthinkable: apologise. (SL,HD)</desc>
@@ -2553,6 +2542,26 @@
     <title lang="en">Live At The Apollo</title>
     <desc lang="en">Iain Stirling introduces comedians Harriet Dyer and Maria Shehata to the stage. (HD)</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d6e3547d-b024-45ed-bb3e-af74761697a2/1270"/>
+  </programme>
+  <programme channel="RTE2.ie" start="20250920004500 +0100" stop="20250920015000 +0100">
+    <title lang="en">Apples Never Fall</title>
+    <desc lang="en">Brooke: During a hurricane, Brooke confronts her personal issues while the detectives pursue a surprising new lead in Joy's disappearance. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2b1e4420-27db-3dbc-a324-1df6f5a67160/1270"/>
+  </programme>
+  <programme channel="RTE2.ie" start="20250920015000 +0100" stop="20250920060000 +0100">
+    <title lang="en">EuroNews</title>
+    <desc lang="en">The latest international news headlines. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/99e1cd86-21fe-4de2-beb1-6dc0bc5cde1b/1270"/>
+  </programme>
+  <programme channel="RTE2.ie" start="20250920060000 +0100" stop="20250920080000 +0100">
+    <title lang="en">EuroNews</title>
+    <desc lang="en">The latest international news headlines. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8a85e4f8-370e-4c6d-a153-87647b904109/1270"/>
+  </programme>
+  <programme channel="RTE2.ie" start="20250920080000 +0100" stop="20250920082500 +0100">
+    <title lang="en">Gremlins: Secrets of the Mogwai</title>
+    <desc lang="en">Always Buy a Ticket: The trust between Sam, Elle, and Gizmo is tested. (HD)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2656fa1e-9777-3161-8c3e-d820b1f57da2/1270"/>
   </programme>
   <programme channel="RTE2.ie" start="20250920004500 +0100" stop="20250920015000 +0100">
     <title lang="en">Apples Never Fall</title>
@@ -4149,33 +4158,6 @@
     <desc lang="en">Troy: Troy makes a risky decision while attempting to evade the police, who know that he has critical information about his mother's disappearance. (HD)</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7bd92794-1d0a-391e-a77d-faeabd968689/1270"/>
   </programme>
-  <programme channel="VirginMediaOne.ie" start="20250919000000 +0100" stop="20250919010000 +0100">
-    <title lang="en">How to Catch a Cat Killer</title>
-    <desc lang="en">The terrifying story of Steven Bouquet, dubbed "The Brighton Cat Killer," who killed nine cats and injured seven others, and how he was brought to justice.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/813fe2db-16dd-42ed-a7c5-20f28b027c27/3881"/>
-  </programme>
-  <programme channel="VirginMediaOne.ie" start="20250919010000 +0100" stop="20250919014800 +0100">
-    <title lang="en">Million Pound Pawn</title>
-    <desc lang="en">In affluent Cheshire, Kathy Lyon's approached by divorced businesswoman Namita who is hoping to sell her gold wedding jewellery. S2 Ep2</desc>
-    <episode-num system="xmltv_ns">01.01</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/83a0a433-cdf9-414b-a4f5-c96d759c00b1/3881"/>
-  </programme>
-  <programme channel="VirginMediaOne.ie" start="20250919014800 +0100" stop="20250919052500 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginMediaOne.ie" start="20250919052500 +0100" stop="20250919061500 +0100">
-    <title lang="en">The Chase Australia</title>
-    <desc lang="en">Andrew O'Keefe presents the Australian version of the quiz show in which four people must work together to beat the Chaser and win a cash prize. S11 Ep7</desc>
-    <episode-num system="xmltv_ns">10.06</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/831b59bc-be60-4158-9cc8-aa257db5f4cf/3881"/>
-  </programme>
-  <programme channel="VirginMediaOne.ie" start="20250919061500 +0100" stop="20250919070000 +0100">
-    <title lang="en">The Six O'Clock Show</title>
-    <desc lang="en">A lively mix of celebrity chat with national and international guests, fabulous food from the countrys top Chefs, expert advice and all the unmissable stories making the headlines. S10 Ep179</desc>
-    <episode-num system="xmltv_ns">09.178</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cb2bdd05-adf7-4774-a18c-3df9129d7e32/3881"/>
-  </programme>
   <programme channel="VirginMediaOne.ie" start="20250919070000 +0100" stop="20250919100000 +0100">
     <title lang="en">Ireland AM</title>
     <desc lang="en">Ireland AM is the longest running daytime show in Ireland. Blending a mixture of lifestyle interviews and news content, with gardening, health, food and fashion seven days a week. S26 Ep255</desc>
@@ -4208,7 +4190,7 @@
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250919150000 +0100" stop="20250919160000 +0100">
     <title lang="en">Loose Women</title>
-    <desc lang="en">Loose Women as they chat about news, issues and life in general. S29 Ep167</desc>
+    <desc lang="en">A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip. S29 Ep167</desc>
     <episode-num system="xmltv_ns">28.166</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d71f270f-d8b3-453f-8d8b-ecc94c65f872/3881"/>
   </programme>
@@ -4262,7 +4244,7 @@
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250919203000 +0100" stop="20250919210000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Tracy's blackmail demands push Carl over the edge; Todd's friends help him clean the flat for Theo; Roy is upset by Carla's deceit. S66 Ep11674</desc>
+    <desc lang="en">Tracy pushes Carl too far with her blackmail demands, Todd's friends help him to clean the flat for Theo, and Roy is hurt by Carla's duplicity. S66 Ep11674</desc>
     <episode-num system="xmltv_ns">65.11673</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7aec4e37-7666-4a1e-a7ed-a7197a11c9d0/3881"/>
   </programme>
@@ -4283,6 +4265,32 @@
     <desc lang="en">Forensic experts try to identify the 1995 remains of a young woman and investigate the 1988 case of Priscilla Clarke, who went missing over three decades ago. S1 Ep1</desc>
     <episode-num system="xmltv_ns">00.00</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d5d110bb-038a-458e-9f46-c2b671a94635/3881"/>
+  </programme>
+  <programme channel="VirginMediaOne.ie" start="20250920010000 +0100" stop="20250920013700 +0100">
+    <title lang="en">Inside the World's Greatest Hotels</title>
+    <desc lang="en">Once known as the 'Savoy of the East', the guests at Raffles Hotel in Singapore range from royalty to rock stars, and from politicians to poets -plus the occasional tiger. Recently re-opened af S1 Ep2</desc>
+    <episode-num system="xmltv_ns">00.01</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a37f1815-b2f0-4a4f-acbf-e3adf326e93e/3881"/>
+  </programme>
+  <programme channel="VirginMediaOne.ie" start="20250920013700 +0100" stop="20250920053700 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginMediaOne.ie" start="20250920053700 +0100" stop="20250920063000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginMediaOne.ie" start="20250920063000 +0100" stop="20250920072000 +0100">
+    <title lang="en">The Chase Australia</title>
+    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the "Chaser", in order to win a cash prize S11 Ep8</desc>
+    <episode-num system="xmltv_ns">10.07</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/06eb67de-68e5-46cb-9470-c794eafe3e0a/3881"/>
+  </programme>
+  <programme channel="VirginMediaOne.ie" start="20250920072000 +0100" stop="20250920081000 +0100">
+    <title lang="en">The Chase Australia</title>
+    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the "Chaser", in order to win a cash prize S11 Ep9</desc>
+    <episode-num system="xmltv_ns">10.08</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/04bd0774-c240-3e72-aba3-c7231e3bff44/3881"/>
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250920010000 +0100" stop="20250920013700 +0100">
     <title lang="en">Inside the World's Greatest Hotels</title>
@@ -4642,7 +4650,7 @@
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250922203000 +0100" stop="20250922210000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Todd gets upset during Theo and Danielle's custody hearing; Tracy shares Carl's true colours to Abi; Ryan fuels Carla's misgivings about Becky. S66 Ep11676</desc>
+    <desc lang="en">Todd loses his cool during Theo and Danielles custody hearing, Tracy reveals Carls true colours to Abi, and Ryan fuels Carlas misgivings about Becky. S66 Ep11676</desc>
     <episode-num system="xmltv_ns">65.11675</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7b5e8451-8a2c-4ac9-8515-c2702ce36daa/3881"/>
   </programme>
@@ -4873,13 +4881,13 @@
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250924163000 +0100" stop="20250924170000 +0100">
     <title lang="en">Judge Judy</title>
-    <desc lang="en">Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers. S23 Ep20</desc>
+    <desc lang="en">An alleged assault takes place when a trio of unsupervised children annoy a roommate, so Judge Judy attempts to determine which party is telling the truth. S23 Ep20</desc>
     <episode-num system="xmltv_ns">22.19</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b0a2467a-613c-486e-907d-bf2fd6e084ff/3881"/>
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250924170000 +0100" stop="20250924173000 +0100">
     <title lang="en">Judge Judy</title>
-    <desc lang="en">Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers. S23 Ep21</desc>
+    <desc lang="en">When an unleashed French bulldog runs toward two leashed Labs, their owners get into a heated fight that results in accusations of assault; a young woman says an untrained puppy made her home S23 Ep21</desc>
     <episode-num system="xmltv_ns">22.20</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/29e0596b-0ee2-4fe2-99e2-1f0e9017d093/3881"/>
   </programme>
@@ -4903,7 +4911,7 @@
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250924193000 +0100" stop="20250924200000 +0100">
     <title lang="en">Emmerdale</title>
-    <desc lang="en">Dylan can't avoid Ray; Charity's guilt weighs heavy; Liam ignores matters of his own health. S54 Ep10399</desc>
+    <desc lang="en">Dylan cant avoid Ray. Charitys guilt weighs heavy. Liam ignores matters of his own health. S54 Ep10399</desc>
     <episode-num system="xmltv_ns">53.10398</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c4a020bf-e93c-4bc5-b512-c9aea161e557/3881"/>
   </programme>
@@ -5085,13 +5093,15 @@
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/83a5a719-6859-345f-ac16-6d89c210ce7c/3881"/>
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250926010000 +0100" stop="20250926020000 +0100">
-    <title lang="en">Yorkshire Ripper: The Secret Murders</title>
-    <desc lang="en">Yorkshire Ripper: The Secret Murders: Series examining the police investigation into the crimes of serial killer Peter Sutcliffe, known as the Yorkshire Ripper, and the missed opportunitie</desc>
+    <title lang="en">Yorkshire Ripper: Secret Murders</title>
+    <desc lang="en">An exploration of the police investigation of serial killer, Peter Sutcliffe, also known as the Yorkshire Ripper, and the missed opportunities to bring him in. S1 Ep1</desc>
+    <episode-num system="xmltv_ns">00.00</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/72bd1dbc-eff1-4e39-b8b1-66254a2f15bd/3881"/>
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250926010000 +0100" stop="20250926020000 +0100">
-    <title lang="en">Yorkshire Ripper: The Secret Murders</title>
-    <desc lang="en">Yorkshire Ripper: The Secret Murders: Series examining the police investigation into the crimes of serial killer Peter Sutcliffe, known as the Yorkshire Ripper, and the missed opportunitie</desc>
+    <title lang="en">Yorkshire Ripper: Secret Murders</title>
+    <desc lang="en">An exploration of the police investigation of serial killer, Peter Sutcliffe, also known as the Yorkshire Ripper, and the missed opportunities to bring him in. S1 Ep1</desc>
+    <episode-num system="xmltv_ns">00.00</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/72bd1dbc-eff1-4e39-b8b1-66254a2f15bd/3881"/>
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250926020000 +0100" stop="20250926024800 +0100">
@@ -5183,7 +5193,7 @@
   </programme>
   <programme channel="VirginMediaOne.ie" start="20250926200000 +0100" stop="20250926203000 +0100">
     <title lang="en">Coronation Street</title>
-    <desc lang="en">Bernie's plan to avenge Asha does not go as expected; Kevin and Tyrone share their struggles; Theo's children visit; Debbie is stunned to find Abi in Carl's hotel room. S66 Ep11679</desc>
+    <desc lang="en">All the latest drama from the iconic cobbled streets of Weatherfield. S66 Ep11679</desc>
     <episode-num system="xmltv_ns">65.11678</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/321f5a5d-4230-4fca-ac71-1b79dc8a9ee8/3881"/>
   </programme>
@@ -5209,32 +5219,6 @@
     <desc lang="en">Gardaí, witnesses and forensic scientists talk about a 2009 case in which a man's body was found ashore the beaches of Rosses Point in Co Sligo. S1 Ep2</desc>
     <episode-num system="xmltv_ns">00.01</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/56997db2-26cb-4ac7-bba3-33c94fe7975f/3881"/>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250919002000 +0100" stop="20250919011500 +0100">
-    <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Diana admits to Kyle that her temper is still burning hot at Sutton. S12 Ep7</desc>
-    <episode-num system="xmltv_ns">11.06</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4b8af1d7-6d8a-4aaf-b2da-af88e7ea82c5/1046"/>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250919011500 +0100" stop="20250919051500 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250919051500 +0100" stop="20250919060500 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250919060500 +0100" stop="20250919070000 +0100">
-    <title lang="en">The Chase Australia</title>
-    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the "Chaser", in order to win a cash prize. S10 Ep40</desc>
-    <episode-num system="xmltv_ns">09.39</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/377df205-dbee-4585-89b9-45b4aa4f756b/1046"/>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250919070000 +0100" stop="20250919080000 +0100">
-    <title lang="en">The Chase Australia</title>
-    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the "Chaser", in order to win a cash prize S11 Ep10</desc>
-    <episode-num system="xmltv_ns">10.09</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/56861559-f8f2-3c83-98f3-da7c981a2390/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250919080000 +0100" stop="20250919090000 +0100">
     <title lang="en">Tipping Point</title>
@@ -5330,6 +5314,30 @@
     <desc lang="en">Captain Sandy thinks the crew can do one cup less. Joao finally confronts Jack with his poor work ethic. When Colin hears that someone has to leave, he takes action. S4 Ep12</desc>
     <episode-num system="xmltv_ns">03.11</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8e23a14f-862c-434a-97f3-a8efbf24e0db/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250920010500 +0100" stop="20250920020000 +0100">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Crystal discusses the Mexico trip with Rob and Jeff. Meanwhile, Erika works on growing a new business venture, and Sutton comes face to face with Diana. S12 Ep8</desc>
+    <episode-num system="xmltv_ns">11.07</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fb5f7bb5-c6fa-4c09-955f-b838b5620871/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250920020000 +0100" stop="20250920065000 +0100">
+    <title lang="en">Craic Den Comedy Club</title>
+    <desc lang="en">Ireland's best comedians take to the stage at Dublin's Craic Den Comedy Club. This week's performers are Sharon Mannion MC, Gearoid Farrelly, Karl Spain. S2 Ep6</desc>
+    <episode-num system="xmltv_ns">01.05</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/662b71cd-1a8b-37c8-a847-1c6054367e75/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250920065000 +0100" stop="20250920074000 +0100">
+    <title lang="en">Who's Doing the Dishes?</title>
+    <desc lang="en">Brian McFadden presents the dining challenge show. Four diners struggle over perfect housewife Anthea Turner's cryptic clues as she throws a dinner party at her home. S2 Ep3</desc>
+    <episode-num system="xmltv_ns">01.02</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/177cec3d-afac-4a2f-803a-8d3b7d2c7c81/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250920074000 +0100" stop="20250920082500 +0100">
+    <title lang="en">Paddington Station 24/7</title>
+    <desc lang="en">As Storm Eleanor causes chaos, a fly-away plastic bag leads to a power outage trapping three trains; in Hungerford, a falling tree strikes a Penzance bound service. S2 Ep7</desc>
+    <episode-num system="xmltv_ns">01.06</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/5556bea1-a32c-42a4-b0a9-05f7d02f4dee/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250920001000 +0100" stop="20250920010500 +0100">
     <title lang="en">Below Deck Mediterranean</title>
@@ -5607,9 +5615,15 @@
     <episode-num system="xmltv_ns">11.08</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b5e76040-3dda-4d3e-a335-df3531cc1bba/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250922020500 +0100" stop="20250922062500 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250922020500 +0100" stop="20250922053500 +0100">
     <title lang="en">Off Air</title>
     <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250922053500 +0100" stop="20250922062500 +0100">
+    <title lang="en">Beat the Chasers</title>
+    <desc lang="en">Bradley Walsh hosts as Russell Kane, Dr Zoe Williams, Kaye Adams, Matt Allwright and Gyles Brandreth take on the Chasers in a bid to win big money for their chosen charities. S4 Ep5</desc>
+    <episode-num system="xmltv_ns">03.04</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/eee25df5-0ed5-3d9c-a0d4-f2c81b40e174/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250922062500 +0100" stop="20250922071000 +0100">
     <title lang="en">The Chase Australia</title>
@@ -5737,9 +5751,15 @@
     <episode-num system="xmltv_ns">10.14</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d383b27d-67e5-4334-8f47-a7259be9e495/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250923014500 +0100" stop="20250923062500 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250923014500 +0100" stop="20250923053500 +0100">
     <title lang="en">Off Air</title>
     <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250923053500 +0100" stop="20250923062500 +0100">
+    <title lang="en">Beat the Chasers</title>
+    <desc lang="en">Bradley Walsh hosts as Jonathan Ross, Edwina Currie, Edith Bowman, Stephen Brown and Eric Knowles all think that they can take on the best quiz team in the world. S5 Ep7</desc>
+    <episode-num system="xmltv_ns">04.06</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1b0a501c-bd34-34c4-84f3-082b2b92673d/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250923062500 +0100" stop="20250923071000 +0100">
     <title lang="en">The Chase Australia</title>
@@ -5869,8 +5889,8 @@
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250924015000 +0100" stop="20250924025000 +0100">
     <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Powerful, affluent women try to balance their work, persona and social lives. S12 Ep10</desc>
-    <episode-num system="xmltv_ns">11.09</episode-num>
+    <desc lang="en">Dorit fangirls over Jamie Lee Curtis, who is a special guest at Kyles charity luncheon. S12 Ep11</desc>
+    <episode-num system="xmltv_ns">11.10</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2ce0e8ca-1025-471e-832e-0ea481f67170/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250924025000 +0100" stop="20250924062500 +0100">
@@ -5968,48 +5988,48 @@
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8109afd9-d72e-4a2d-98bc-075cfc2d3b04/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250924210000 +0100" stop="20250924220500 +0100">
+    <title lang="en">Love Island Games</title>
+    <desc lang="en">Famous and favourite Islanders are about to play the game of love in a whole new way. S2 Ep4</desc>
+    <episode-num system="xmltv_ns">01.03</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cabf5068-80a0-44c4-a381-81eef85b560b/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250924220500 +0100" stop="20250924230500 +0100">
+    <title lang="en">Love Island: Aftersun</title>
+    <desc lang="en">Famous and favourite Islanders are about to play the game of love in a whole new way. S2 Ep1</desc>
+    <episode-num system="xmltv_ns">01.00</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2438298e-1dec-4b26-aece-dc11982478a5/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250924230500 +0100" stop="20250925001000 +0100">
     <title lang="en">The Graham Norton Show</title>
     <desc lang="en">Graham is joined by Hugh Grant, Nigella Lawson, Jamie Foxx, Tina Fey and Amy Adams. With music from Dua Lipa. S28 Ep7</desc>
     <episode-num system="xmltv_ns">27.06</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d697848e-618d-41cd-9666-d31145ef3c9a/1046"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/25d9d1f0-6eae-40a6-8460-b591e36502c6/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250924220500 +0100" stop="20250924230000 +0100">
-    <title lang="en">Vanderpump Rules</title>
-    <desc lang="en">Jax wonders if he should forgive Sandoval; Charli confronts Brett about his ex-girlfriend; Raquel tells James that he must quit drinking. S8 Ep9</desc>
-    <episode-num system="xmltv_ns">07.08</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cf4cdcc7-0ecc-462a-b13e-f20c1262b00c/1046"/>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250924230000 +0100" stop="20250924235500 +0100">
-    <title lang="en">Vanderpump Rules</title>
-    <desc lang="en">Tensions arise during Jax and Brittany's rehearsal dinner; Dayna discovers that Max might have been unfaithful to her; James and Max bond over girl troubles. S8 Ep10</desc>
-    <episode-num system="xmltv_ns">07.09</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/22e30586-8d1c-4a5b-ab71-63e11a6053fc/1046"/>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250924235500 +0100" stop="20250925002500 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250925001000 +0100" stop="20250925004000 +0100">
     <title lang="en">Schitt's Creek</title>
     <desc lang="en">The Roses struggle to participate in an Escape Room at David and Patrick's Bachelor Party when their personal dilemmas become a distraction. S6 Ep11</desc>
     <episode-num system="xmltv_ns">05.10</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/83a987a5-652c-4481-8413-6ccfb1ae65e2/1046"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/28007708-cd9c-48bb-896a-5b61169ddb5a/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250925002500 +0100" stop="20250925005500 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250925004000 +0100" stop="20250925011000 +0100">
     <title lang="en">Schitt's Creek</title>
     <desc lang="en">The family waits anxiously as Stevie, Johnny and Roland head to a pitch meeting. S6 Ep12</desc>
     <episode-num system="xmltv_ns">05.11</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9741418c-8469-431f-869c-2bc274d35e99/1046"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/643b8241-a141-453c-8658-ecea1ff2443d/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250925005500 +0100" stop="20250925015500 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250925004000 +0100" stop="20250925011000 +0100">
+    <title lang="en">Schitt's Creek</title>
+    <desc lang="en">The family waits anxiously as Stevie, Johnny and Roland head to a pitch meeting. S6 Ep12</desc>
+    <episode-num system="xmltv_ns">05.11</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/643b8241-a141-453c-8658-ecea1ff2443d/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250925011000 +0100" stop="20250925021000 +0100">
     <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Dorit fangirls over Jamie Lee Curtis, who is a special guest at Kyles charity luncheon. S12 Ep11</desc>
+    <desc lang="en">Follow the lavish lives of six savvy champagne-swilling Beverly Hills women who were born for shopping and partying! S12 Ep11</desc>
     <episode-num system="xmltv_ns">11.10</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2ce0e8ca-1025-471e-832e-0ea481f67170/1046"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d9cf66ce-104f-4c38-9336-b847fc094f36/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250925005500 +0100" stop="20250925015500 +0100">
-    <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Dorit fangirls over Jamie Lee Curtis, who is a special guest at Kyles charity luncheon. S12 Ep11</desc>
-    <episode-num system="xmltv_ns">11.10</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/2ce0e8ca-1025-471e-832e-0ea481f67170/1046"/>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250925015500 +0100" stop="20250925061000 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250925021000 +0100" stop="20250925061000 +0100">
     <title lang="en">Off Air</title>
     <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
   </programme>
@@ -6109,41 +6129,41 @@
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250925210000 +0100" stop="20250925220500 +0100">
     <title lang="en">Love Island Games</title>
-    <desc lang="en">Famous and favourite Islanders are about to play the game of love in a whole new way. S2 Ep4</desc>
-    <episode-num system="xmltv_ns">01.03</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/6ccc47b8-8f6c-4c72-bc09-04401f46816f/1046"/>
+    <desc lang="en">Famous and favourite Islanders are about to play the game of love in a whole new way. S2 Ep5</desc>
+    <episode-num system="xmltv_ns">01.04</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e0dfc49b-6662-479b-a552-084db84a32cb/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250925220500 +0100" stop="20250925230500 +0100">
-    <title lang="en">Love Island Games</title>
-    <desc lang="en">Famous and favourite Islanders are about to play the game of love in a whole new way. S2 Ep1</desc>
-    <episode-num system="xmltv_ns">01.00</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/6ccc47b8-8f6c-4c72-bc09-04401f46816f/1046"/>
+  <programme channel="VirginMediaTwo.ie" start="20250925220500 +0100" stop="20250925230000 +0100">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">Jax wonders if he should forgive Sandoval; Charli confronts Brett about his ex-girlfriend; Raquel tells James that he must quit drinking. S8 Ep9</desc>
+    <episode-num system="xmltv_ns">07.08</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3749f45f-1c16-4792-8e39-6f63d0833404/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250925230500 +0100" stop="20250926001000 +0100">
-    <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Graham is joined by singer Mariah Carey, TV chef Nadiya Hussain, astronaut Tim Peake, Pointless presenter Richard Osman and singer-songwriter Gary Barlow. S28 Ep8</desc>
-    <episode-num system="xmltv_ns">27.07</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7d5efd94-343e-34de-b723-67f74dc6bf74/1046"/>
+  <programme channel="VirginMediaTwo.ie" start="20250925230000 +0100" stop="20250925235500 +0100">
+    <title lang="en">Vanderpump Rules</title>
+    <desc lang="en">Tensions arise during Jax and Brittany's rehearsal dinner; Dayna discovers that Max might have been unfaithful to her; James and Max bond over girl troubles. S8 Ep10</desc>
+    <episode-num system="xmltv_ns">07.09</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/084d07c2-645f-445b-b54b-92d8133c0855/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250926001000 +0100" stop="20250926011000 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250925235500 +0100" stop="20250926005500 +0100">
     <title lang="en">The Real Housewives of Beverly Hills</title>
     <desc lang="en">Diana apologizes to Garcelle for acting out at her birthday party. Lisa has a frank conversation with Erika about her recent behavior. S12 Ep12</desc>
     <episode-num system="xmltv_ns">11.11</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/bb1b9d11-f9b8-45a4-81f9-174b967c3455/1046"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/53b904f7-d2bf-4382-861b-61041d223522/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250926001000 +0100" stop="20250926011000 +0100">
-    <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Diana apologizes to Garcelle for acting out at her birthday party. Lisa has a frank conversation with Erika about her recent behavior. S12 Ep12</desc>
-    <episode-num system="xmltv_ns">11.11</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/bb1b9d11-f9b8-45a4-81f9-174b967c3455/1046"/>
-  </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250926011000 +0100" stop="20250926021000 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250926005500 +0100" stop="20250926015500 +0100">
     <title lang="en">The Real Housewives of Beverly Hills</title>
     <desc lang="en">Garcelle takes her concerns about Erika to Dorit then asks a surprising question about Dorit's personal life. Erika makes a stunning revelation. S12 Ep13</desc>
     <episode-num system="xmltv_ns">11.12</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b9451937-4ac2-4576-ba22-8d97f67a0c17/1046"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f1759044-0357-4e7c-b69e-54bcfcd11dba/1046"/>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20250926021000 +0100" stop="20250926055500 +0100">
+  <programme channel="VirginMediaTwo.ie" start="20250926005500 +0100" stop="20250926015500 +0100">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Garcelle takes her concerns about Erika to Dorit then asks a surprising question about Dorit's personal life. Erika makes a stunning revelation. S12 Ep13</desc>
+    <episode-num system="xmltv_ns">11.12</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f1759044-0357-4e7c-b69e-54bcfcd11dba/1046"/>
+  </programme>
+  <programme channel="VirginMediaTwo.ie" start="20250926015500 +0100" stop="20250926055500 +0100">
     <title lang="en">Off Air</title>
     <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
   </programme>
@@ -6230,7 +6250,9 @@
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cab69986-400e-402c-b583-60b5fc5ed57e/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250926190000 +0100" stop="20250926193000 +0100">
-    <title lang="en">69th Ballon D'Or Awards Highlights</title>
+    <title lang="en">69th Ballon DOr</title>
+    <desc lang="en">Highlights from Paris, footballs biggest stars gather as the 69th Ballon d'Or crowns the best players in the world across 12 prestigious categories.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/59b7c072-028a-4dc2-8f0d-6fe40f60190d/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250926193000 +0100" stop="20250926221500 +0100">
     <title lang="en">League of Ireland</title>
@@ -6245,33 +6267,15 @@
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250926232000 +0100" stop="20250927002000 +0100">
     <title lang="en">The Group Chat</title>
-    <desc lang="en">The famous trio are back. The Virgin Media News hit podcast returns with a brand-new series as Richard Chambers, Gavan Reilly and Zara King sit down together and discuss the main news stories  S7 Ep29</desc>
+    <desc lang="en">A debate on the main news stories of the week S7 Ep29</desc>
     <episode-num system="xmltv_ns">06.28</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b155f01a-0576-4ff5-a803-f2e2f5467c1f/1046"/>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1b2b8303-fa06-48ea-892c-1402f794ba54/1046"/>
   </programme>
   <programme channel="VirginMediaTwo.ie" start="20250927002000 +0100" stop="20250927012000 +0100">
     <title lang="en">Below Deck Mediterranean</title>
     <desc lang="en">Colin faces a difficult decision, and Anastasia accepts her new role. A group of only women comes on board who flirts with the crew. An old acquaintance returns. S4 Ep13</desc>
     <episode-num system="xmltv_ns">03.12</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1d90866a-9ac4-4a6d-92ce-498d8f48894f/1046"/>
-  </programme>
-  <programme channel="VirginMediaFour.ie" start="20250918235500 +0100" stop="20250919021400 +0100">
-    <title lang="en">This Morning</title>
-    <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more. S37 Ep186</desc>
-    <episode-num system="xmltv_ns">36.185</episode-num>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b8dc193d-478b-4c27-8c0f-6bd7b2b51df8/1316"/>
-  </programme>
-  <programme channel="VirginMediaFour.ie" start="20250919021400 +0100" stop="20250919061400 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginMediaFour.ie" start="20250919061400 +0100" stop="20250919070000 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
-  </programme>
-  <programme channel="VirginMediaFour.ie" start="20250919070000 +0100" stop="20250919072000 +0100">
-    <title lang="en">Off Air</title>
-    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f0657f40-e632-4b04-9ddb-ac47535fe4db/1046"/>
   </programme>
   <programme channel="VirginMediaFour.ie" start="20250919072000 +0100" stop="20250919081000 +0100">
     <title lang="en">The Tonight Show</title>
@@ -6391,6 +6395,30 @@
     <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more. S37 Ep187</desc>
     <episode-num system="xmltv_ns">36.186</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/daeedbed-ef14-4525-8d00-60f9433bbec8/1316"/>
+  </programme>
+  <programme channel="VirginMediaFour.ie" start="20250920021400 +0100" stop="20250920061400 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginMediaFour.ie" start="20250920061400 +0100" stop="20250920070000 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginMediaFour.ie" start="20250920070000 +0100" stop="20250920070500 +0100">
+    <title lang="en">Off Air</title>
+    <desc lang="en">No programming information is scheduled at this time due to transmitter maintenance or normal station downtime.</desc>
+  </programme>
+  <programme channel="VirginMediaFour.ie" start="20250920070500 +0100" stop="20250920075500 +0100">
+    <title lang="en">Best of Guinness Six Nations</title>
+    <desc lang="en">Highlights from Dublin as Ireland play England in the first round of 2025 Six Nations fixtures. S2025 Ep2</desc>
+    <episode-num system="xmltv_ns">2024.01</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1228752e-73cd-4014-8c9e-76cd60b93b56/1316"/>
+  </programme>
+  <programme channel="VirginMediaFour.ie" start="20250920075500 +0100" stop="20250920084500 +0100">
+    <title lang="en">Brian Kerr - A Life in Football</title>
+    <desc lang="en">In the opening episode of the series, Brian tells Tommy Martin of his sport obsessed childhood, early run-ins with Jack Charlton, winning with St Pats and football in war zones. S1 Ep1</desc>
+    <episode-num system="xmltv_ns">00.00</episode-num>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/cc89b2fd-0524-4bdc-88f3-1a88d9f013c6/1316"/>
   </programme>
   <programme channel="VirginMediaFour.ie" start="20250919235500 +0100" stop="20250920021400 +0100">
     <title lang="en">This Morning</title>
@@ -7302,121 +7330,6 @@
     <episode-num system="xmltv_ns">36.191</episode-num>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/86fcc8db-4c7d-4c7a-9e57-5ce5d6a92f8c/1316"/>
   </programme>
-  <programme channel="TG4.ie" start="20250919000000 +0100" stop="20250919011000 +0100">
-    <title lang="en">The Twelve</title>
-    <desc lang="en">Téann an giúiré i mbun machnaimh agus tagann ar ais leis an mbreith. (The jury is sequestered after the full story of Kate Lawson's connection to a historical crime is revealed.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4aa72e1a-b955-4e1a-b915-74dc22f0c81d/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919011000 +0100" stop="20250919020000 +0100">
-    <title lang="en">Dáil Éireann</title>
-    <desc lang="en">Craoladh ar imeachtaí na maidine de riar na hoibre i nDáil Éireann. (Coverage of today's proceedings in Dáil Éireann.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/00eb464c-5a65-4f0f-b729-c81d95fb245a/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919020000 +0100" stop="20250919023000 +0100">
-    <title lang="en">Nuacht TG4</title>
-    <desc lang="en">Mórimeachtaí an lae ó Aonad Nuachta TG4. (The day's main news stories from a regional, national and international perspective.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/39ed4209-5fc5-48e1-aa45-7e2be2deb667/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919023000 +0100" stop="20250919030000 +0100">
-    <title lang="en">Glúin Z</title>
-    <desc lang="en">Díreofar ar na dúshláin a bhíonn le sárú ag aos óg na linne sa gclár seo. (In episode two, we focus on the challenges facing young people today.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/505bb59a-8295-4b11-8fa2-d1f22ae1fda6/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919030000 +0100" stop="20250919035500 +0100">
-    <title lang="en">Sloinne</title>
-    <desc lang="en">Rachaidh Noelle Gallagher Ní Mhurchú ar aistear le heolas a fháil ar shloinne a muintire. (Noelle Gallagher Murphy goes on a journey to learn more about her Murphy surname.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f6d67964-452d-3ef2-b64b-c3513d6d685a/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919035500 +0100" stop="20250919045000 +0100">
-    <title lang="en">Réalta agus Gaolta</title>
-    <desc lang="en">Beidh fíorscoth na n-iomaitheoirí sraithe ag tabhairt aghaidh ar a chéile sa mbabhta ceannais. (The crème de la crème of the series will be taking to the stage in the finale.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/50b282a9-619d-46ae-b472-68a5e0824608/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919045000 +0100" stop="20250919060000 +0100">
-    <title lang="en">France 24</title>
-    <desc lang="en">FRANCE 24 is France's 24 hour international news channel. (Cainéal nuachta 24 uair an chloig na Fraince atá i France 24.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fc247c57-1ba1-482d-af69-8ec6af435b7a/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919060000 +0100" stop="20250919060200 +0100">
-    <title lang="en">Cúla4</title>
-    <desc lang="en">Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/571646a4-c082-444c-aff6-e33fe3a37aca/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919060200 +0100" stop="20250919060800 +0100">
-    <title lang="en">Bréidín &amp; Clúmh</title>
-    <desc lang="en">Tá ribín faighte ag Bréidín ach tá duine éigin á tharraingt. (Tweedy finds a ribbon but someone is pulling the other end!)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f1bd444f-2110-347e-a9a4-6c213d9d2279/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919060800 +0100" stop="20250919061100 +0100">
-    <title lang="en">CoComelon It's Cody Time</title>
-    <desc lang="en">Beidh Cody ag dul chuig an obair lena Dhaide inniu! (Join Cody as he goes to work with Dad!)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8b459bee-60a4-4e36-8809-5ee7d814ade4/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919061100 +0100" stop="20250919061400 +0100">
-    <title lang="en">CoComelon JJ's Animal</title>
-    <desc lang="en">Beidh cóisir ag JJ agus a chairde. (JJ and his animal friends have a dance party.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d65ad6d1-2f62-39d1-abe1-87af1edb242d/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919061400 +0100" stop="20250919063700 +0100">
-    <title lang="en">Dora</title>
-    <desc lang="en">Tugann Dora cúnamh do phearóid óg a mháthair a fháil. (Dora helps a baby parrot named Lorito find his Mami.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/859d3c9f-4e66-3f50-81ef-995570ad7766/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919063700 +0100" stop="20250919064400 +0100">
-    <title lang="en">Elmo Anseo</title>
-    <desc lang="en">Foghlaimeoidh Elmo agus a chara nua Cliste níos mó faoi ghaolta. (Elmo explores and discovers more about siblings with his new friend, Smartie.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d7586b6b-a3d9-3af1-ab87-6615b1a3a8e9/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919064400 +0100" stop="20250919065400 +0100">
-    <title lang="en">Pip &amp; Posy</title>
-    <desc lang="en">Ní hí an chomhairle chéanna atá ag Pip ná ag Posy do Jamila faoi bheith ag sleamhnú síos an cnoc. (Pip and Posy try to teach Jamila how to sledge down the hill.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/dee5dd69-76c1-45c2-a1a5-60407a6bd229/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919065400 +0100" stop="20250919070000 +0100">
-    <title lang="en">Olobob Top</title>
-    <desc lang="en">Tá sé ag cinneadh ar na hOlobobanna a mbealach a dhéanamh abhaile. (Groan Up is having a party, and it's hard for the Olobobs to find their way home.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/23350660-3aa1-4166-aab6-3e857668c497/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919070000 +0100" stop="20250919071200 +0100">
-    <title lang="en">PJ Masks</title>
-    <desc lang="en">Tá Armadylan agus Catboy ag iarraidh greannán an Mháistir Fang. (Armadylan and Catboy compete over an exclusive Master Fang comic, thinking it contains a hero secret.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/8708f598-a489-4a14-b980-71e12a4b3e54/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919071200 +0100" stop="20250919071700 +0100">
-    <title lang="en">Wussywat</title>
-    <desc lang="en">Aimsíonn Wussywat bosca fuar Ortus ar lá te, agus féachann sí le caoineog torthaí a dhéanamh. (Wussywat finds Ortus' icebox on a hot sunny day and has an idea.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/74df63c6-a3bf-4615-9db8-c6f53f028517/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919071700 +0100" stop="20250919073000 +0100">
-    <title lang="en">Clifford</title>
-    <desc lang="en">Cabhraíonn Clifford agus Emily Eilís le Bn. Uí Chiaráin a cuid caitíní a aimsiú nuair a théann siad ar strae. (Clifford &amp; Emily Elizabeth help Mrs. Clayton find her cats.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4c104f60-73b9-31e3-a298-6cca4c20610a/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919073000 +0100" stop="20250919073500 +0100">
-    <title lang="en">Woozle &amp; Pip</title>
-    <desc lang="en">Tá na cairde ag smaoineamh ar na poist a bheidh acu nuair a bheidh siad mór. (What would Woozle and Pip like to do when they grow up?)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e7e6583d-90a0-3275-9880-8b15b60f3d0c/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919073500 +0100" stop="20250919074000 +0100">
-    <title lang="en">Vegesaurs</title>
-    <desc lang="en">Tá Ginger agus na Piseanna-Rex ar thóir greim le hithe. (Ginger joins the baby Pea-Rexes on their expedition to find dinner.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7a895c6c-4298-4cbd-b921-6300a9b4644e/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919074000 +0100" stop="20250919075200 +0100">
-    <title lang="en">Dot</title>
-    <desc lang="en">Tá Dot trína chéile go bhfuil an seó scátála curtha ar ceal. (Dot is devastated to see that the annual Twinkle Skate has been cancelled due to the lack of snow.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/98f7501b-e474-4a97-ac3d-ac3baf3d4571/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919075200 +0100" stop="20250919080000 +0100">
-    <title lang="en">Momonsters</title>
-    <desc lang="en">Glacann na Momonsters páirt i dtroid liathróidí sneachta. (The Momonsters participate in a snowball fight.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9d51a797-d108-35db-a5eb-faa8df6ed9d8/4034"/>
-  </programme>
-  <programme channel="TG4.ie" start="20250919080000 +0100" stop="20250919080200 +0100">
-    <title lang="en">Cúla4</title>
-    <desc lang="en">Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7355eeac-f684-4653-b98a-92112504598d/4034"/>
-  </programme>
   <programme channel="TG4.ie" start="20250919080200 +0100" stop="20250919081500 +0100">
     <title lang="en">Charlie agus Lola</title>
     <desc lang="en">Caithfidh Charlie cabhrú le Lola í féin a réiteach le dul a chodladh. (Charlie has to help get Lola ready for bed.)</desc>
@@ -7616,6 +7529,126 @@
     <title lang="en">Hector Caribbean</title>
     <desc lang="en">Sroicheann Hector oileán Antigua agus tugann sé cuairt ar Mhontsarat ina dhiaidh sin. (This week Hector visits Antigua and Montserrat.)</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9e2d11bf-c38b-43e8-88bd-65d80c22a613/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920003000 +0100" stop="20250920010000 +0100">
+    <title lang="en">Cumasc: Seisiúin sa Black Gate</title>
+    <desc lang="en">Rónán Ó Snodaigh, Myles O'Reilly agus Olesya Zdorovetska a thabharfaidh faoi chomhar ceoil ar an gclár seo. (Rónán Ó Snodaigh, Myles O'Reilly, and Olesya Zdorovetska.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/e4910595-586e-3d36-847e-ade83238cd29/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920010000 +0100" stop="20250920021500 +0100">
+    <title lang="en">Call My Agent!</title>
+    <desc lang="en">Táthar ag ceiliúradh 30 bliain ó cuireadh ASK ar an bhfód ach tá an ghníomhaireacht i gcruachás. (As our agents celebrate the 30th anniversary of ASK, the agency is on the brink of disaster.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/7e4bd7ae-e572-3a3f-bb4d-76363087b5dd/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920021500 +0100" stop="20250920024500 +0100">
+    <title lang="en">Nuacht TG4</title>
+    <desc lang="en">Mórimeachtaí an lae ó Aonad Nuachta TG4. (The day's main news stories from a regional, national and international perspective.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/db9ad78c-205e-4f15-a613-acd4d7a70396/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920024500 +0100" stop="20250920034000 +0100">
+    <title lang="en">Cúltír</title>
+    <desc lang="en">Déanfaidh Pauline Scanlon agus Aoife Ní Bhriain ceiliúradh ar cheol agus ar chultúr Fhine Gall. (This week Pauline Scanlon and Aoife Ní Bhriain celebrate the music of Fingal.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/51d3b251-8886-4abc-8fca-0acfeff2b350/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920034000 +0100" stop="20250920040500 +0100">
+    <title lang="en">Dúiseacht</title>
+    <desc lang="en">Tá Niamh Firtéar agus a mac Cathal ag súil lena chéad lá i bPobalscoil Chorca Dhuibhne. (Niamh Firtéar and her son Cathal are looking forward to his first day in Pobalscoil Chorca Dhuibhne.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/6128e441-9d79-4d6d-bf07-6a9097b26518/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920040500 +0100" stop="20250920043500 +0100">
+    <title lang="en">Paisean Faisean</title>
+    <desc lang="en">Is Alison Ní Dhailigh a bheidh na buachaillí ag iarraidh a mhealladh le héadaí deasa. (The boys will try to woo  Alison Ní Dhailigh with lovely outfits.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/53186fa6-97cc-3df9-8b0f-9bed39e02f92/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920043500 +0100" stop="20250920050500 +0100">
+    <title lang="en">Amhráin is Ansa Liom</title>
+    <desc lang="en">Is í an t-amhránaí Eilís Ní Chinnéide as Ciarraí a bheidh ag caint le Antaine Ó Faracháin sa gclár seo. (Eilís Ní Chinnéide from Kerry will feature in this programme.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f78c69e5-3fee-337f-8848-efc3740fd0ba/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920050500 +0100" stop="20250920060000 +0100">
+    <title lang="en">France 24</title>
+    <desc lang="en">FRANCE 24 is France's 24 hour international news channel. (Cainéal nuachta 24 uair an chloig na Fraince atá i France 24.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/855ffed5-7cf9-41d6-aec6-93025c06a5a4/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920060000 +0100" stop="20250920060200 +0100">
+    <title lang="en">Cúla4</title>
+    <desc lang="en">Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9949a3fe-c46a-4843-9049-723230104c30/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920060200 +0100" stop="20250920061400 +0100">
+    <title lang="en">Saol Faoi Shráid</title>
+    <desc lang="en">Briseann Ribín druma Dhris trí thimpiste. (Ribín breaks Dris' drum by accident.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ba95dead-1fb9-4272-ba27-337a3dba1e41/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920061400 +0100" stop="20250920062100 +0100">
+    <title lang="en">Garáiste Gecko</title>
+    <desc lang="en">Tá Gecko tinn agus caithfidh na meicneoirí eile an obair a dhéanamh. (The other mechanics must cover for Gecko when he's sick.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9b7cac65-d717-4de3-8e70-9940e0d628e9/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920062100 +0100" stop="20250920062800 +0100">
+    <title lang="en">Bíp Bíp Cory Carson</title>
+    <desc lang="en">Bíonn an-spraoi ag an teaghlach uilig ag iarraidh eitleog a chur ag eitilt. (The whole family gets involved when trying to figure out how best to fly a kite.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/bb780bea-ca7d-35d5-90c0-8587dbc442f9/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920062800 +0100" stop="20250920063500 +0100">
+    <title lang="en">Balloon Barnyard</title>
+    <desc lang="en">Inniu Lá na Rásaí i gClós na mBalún ach tá na bainbh ag briseadh na rialacha. (It's Race Day at Balloon Barnyard, but the piglets are breaking the rules.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/acb4119a-f6a8-3da9-9368-fd02e5bd536f/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920063500 +0100" stop="20250920064800 +0100">
+    <title lang="en">Mecha Builders</title>
+    <desc lang="en">Déanann Zee roicéad ollmhór i mbuidéal ach bíonn sé féin sáinnithe ann sa deireadh. (Zee makes a giant rocket ship in a bottle, but things take a turn when he gets stuck inside!)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/6f0d93d3-7b4d-3751-8021-cc88ff39710f/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920064800 +0100" stop="20250920070000 +0100">
+    <title lang="en">Mecha Builders</title>
+    <desc lang="en">Tugann Zee lá saoire don Fheirmeoir De Brún ach roghnaigh sé lá an-chrúógach ar an bhfeirm le scíth a ligean. (Zee gives MacBarm the day off for what turns out to be a busy day!)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/77b87146-135c-3dd4-9280-017d02550145/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920070000 +0100" stop="20250920072600 +0100">
+    <title lang="en">Coileáinín Nua Elmo</title>
+    <desc lang="en">Tugann Elmo coileáinín atá amú chuig aonach na bpeataí le súil baile nua a aimsiú di. (Elmo takes a stray puppy to the pet fair so she can be adopted.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/dbf708c7-af4d-3a9e-8ac0-a0e1e9c53d40/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920072600 +0100" stop="20250920073100 +0100">
+    <title lang="en">Dinocity</title>
+    <desc lang="en">Bíonn an-spraoi ag Ricky ag dul i bhfolach ar dhaoine lena chlóca speisialta. (Ricky has fun hiding from everyone in a special cloak.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d78a9c16-066c-3b03-a247-d26d9e28f202/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920073100 +0100" stop="20250920073700 +0100">
+    <title lang="en">Dinocity</title>
+    <desc lang="en">Cé aige a bheidh an bua i gcomórtas mór an lae inniu? (Everyone is trying their best to win the lava competition, but who will win?)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/026f8ea2-5e8c-304b-bf3a-0a7aff1e88ef/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920073700 +0100" stop="20250920074200 +0100">
+    <title lang="en">Dinocity</title>
+    <desc lang="en">Bíonn an-spraoi ag Ricky ag imirt cleasa ar Tyra inniu. (Today, Ricky has fun tricking Tyra.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ce71641a-3085-3237-a3e9-625857e463a2/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920074200 +0100" stop="20250920074700 +0100">
+    <title lang="en">Dinocity</title>
+    <desc lang="en">Beidh Ricky agus Boo ag dul campáil inniu ach meas tú an mbeidh faitíos orthu? (Ricky and Boo try their very best not to be scared while camping out, but will they succeed?)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4497537d-31ee-391f-b22c-1b6df033c7a0/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920074700 +0100" stop="20250920075200 +0100">
+    <title lang="en">Dinocity</title>
+    <desc lang="en">Tá sé cinnte ar Ricky agus a mhuintir súil a choinneáil ar Chráca! (Today, Ricky and his family have a very hard time keeping an eye on Kracken!)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/42f376c1-bf97-3908-9c76-bed28de9617b/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920075200 +0100" stop="20250920075400 +0100">
+    <title lang="en">Cúla4</title>
+    <desc lang="en">Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3a3b1812-4118-4113-9380-1c3a65aa6cd6/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920075400 +0100" stop="20250920080700 +0100">
+    <title lang="en">Cat a' Hata</title>
+    <desc lang="en">Téann liathróid Nic agus Sailí i bhfostú sa chrann nuair a bhíonn siad ag imirt cluiche. (Nick and Sally are playing when their ball gets caught up high in the branches of a tree.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/3a1d9106-3d03-42cd-b162-8bf454a62985/4034"/>
+  </programme>
+  <programme channel="TG4.ie" start="20250920080700 +0100" stop="20250920082000 +0100">
+    <title lang="en">Cat a' Hata</title>
+    <desc lang="en">Tugann an Cat agus a chairde cuairt ar Rí Cecil, an capall mara. (The Cat takes Nick and Sally to see King Cecil the seahorse who takes all of his babies on an adventure.)</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/98367059-b038-44f0-b56d-1ee6866ebb9c/4034"/>
   </programme>
   <programme channel="TG4.ie" start="20250920010000 +0100" stop="20250920021500 +0100">
     <title lang="en">Call My Agent!</title>
@@ -9697,56 +9730,6 @@
     <desc lang="en">Susan O'Neill agus Phil Christie a thabharfaidh faoi chomhar ceoil an tseachtain seo. (Susan O'Neill and Phil Christie. A captivating and cathartic collaboration.)</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/dd7d9985-04e6-3b65-a420-e342a2ae7051/4034"/>
   </programme>
-  <programme channel="SkyNews.ie" start="20250919000000 +0100" stop="20250919010000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/545f7f50-7eee-47b7-b380-422a5702392c/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919010000 +0100" stop="20250919020000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/f72fa0c4-47de-440a-b501-726e250f6386/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919020000 +0100" stop="20250919030000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/29fd2bd2-3876-4913-bf53-38c8bf476f6a/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919030000 +0100" stop="20250919040000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/9353ceed-c4f7-4db3-9fa1-0e4f2c50004b/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919040000 +0100" stop="20250919050000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/21c0376c-a01a-4afb-80cb-be487e423a01/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919050000 +0100" stop="20250919060000 +0100">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d35a5ea7-8e67-4b1d-bbd0-15ae0d42dd10/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919060000 +0100" stop="20250919063000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a2c8b04e-9206-467e-9735-1acfe3973f3e/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919063000 +0100" stop="20250919070000 +0100">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/b6dc4ddc-a94f-4948-8633-2e9245b9900d/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919070000 +0100" stop="20250919073000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d500cb5b-7b94-494a-a01e-d16a3be75920/4054"/>
-  </programme>
-  <programme channel="SkyNews.ie" start="20250919073000 +0100" stop="20250919080000 +0100">
-    <title lang="en">Breakfast with Anna Jones</title>
-    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4f40f0be-c1ef-4e7b-b75f-a22bb5ccab77/4054"/>
-  </programme>
   <programme channel="SkyNews.ie" start="20250919080000 +0100" stop="20250919083000 +0100">
     <title lang="en">Breakfast with Anna Jones</title>
     <desc lang="en">All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
@@ -9911,6 +9894,56 @@
     <title lang="en">Sky News</title>
     <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/543aaf87-b5ad-4127-96e9-acac548acb9f/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920010000 +0100" stop="20250920020000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/fcb8e171-3942-49c4-a144-d2cd7f3d2c5b/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920020000 +0100" stop="20250920030000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/eeb5cff2-3f9a-481e-ad6a-d4bf3c3e18ee/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920030000 +0100" stop="20250920040000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d479ae72-278a-431c-9f34-cc807aca6150/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920040000 +0100" stop="20250920050000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/4031ba8c-6f7e-4e28-8585-c86fe48b5aa6/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920050000 +0100" stop="20250920060000 +0100">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d2e07c55-c4cd-4287-890a-b9126abb54fe/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920060000 +0100" stop="20250920063000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/a2332e32-ab4b-4501-beed-3e6b4bd03155/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920063000 +0100" stop="20250920070000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/0205a817-e7c5-46a7-a0e5-5d4444dfbe27/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920070000 +0100" stop="20250920073000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/d87763ce-34d8-4949-a099-cddb245ae4dd/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920073000 +0100" stop="20250920080000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/0dcc6443-af8d-4e7e-8ae6-f9022c84b15f/4054"/>
+  </programme>
+  <programme channel="SkyNews.ie" start="20250920080000 +0100" stop="20250920083000 +0100">
+    <title lang="en">Breakfast with Anna Jones</title>
+    <desc lang="en">All the big stories of the morning, with big name interviews, analysis and reports from the Sky News team.</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/ddbcb273-cdb8-424a-b6a0-771868ac2f62/4054"/>
   </programme>
   <programme channel="SkyNews.ie" start="20250920010000 +0100" stop="20250920020000 +0100">
     <title lang="en">Sky News</title>
